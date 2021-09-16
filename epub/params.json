@@ -22,7 +22,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "mlpznakkurziva11b",
+      "em": "mlpznakkurziva11b\nmlpdopispodpisi",
       "strong": "mlptirazautoranazev\nmlpznaktucne11b",
       "remove": "",
       "ignore": ""
@@ -32,37 +32,45 @@
         "filename": "povidky_z_druhe_kapsy_001.md",
         "xhtml": "povidky_z_druhe_kapsy_001.html",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_002.md",
         "xhtml": "povidky_z_druhe_kapsy_002.html",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_003.md",
         "xhtml": "povidky_z_druhe_kapsy_003.html",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_004.md",
         "xhtml": "povidky_z_druhe_kapsy_004.html",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_005.md",
@@ -71,7 +79,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Předmluva",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_006.md",
@@ -80,7 +90,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ukradený kaktus",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_007.md",
@@ -89,7 +101,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Povídka starého\nkriminálníka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_008.md",
@@ -98,7 +112,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Zmizení pana Hirsche",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_009.md",
@@ -107,7 +123,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Čintamani a ptáci",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_010.md",
@@ -116,7 +134,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Příběh o kasaři a žháři",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_011.md",
@@ -125,7 +145,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ukradená vražda",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_012.md",
@@ -134,7 +156,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Případ s dítětem",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_013.md",
@@ -143,7 +167,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Grófinka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_014.md",
@@ -152,7 +178,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Historie dirigenta Kaliny",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_015.md",
@@ -161,7 +189,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Smrt barona Gandary",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_016.md",
@@ -170,7 +200,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Příběhy sňatkového\npodvodníka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_017.md",
@@ -179,7 +211,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Balada o Juraji Čupovi",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_018.md",
@@ -188,7 +222,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Povídka o ztracené noze",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_019.md",
@@ -197,7 +233,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Závrať",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_020.md",
@@ -206,7 +244,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ušní zpověď",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_021.md",
@@ -215,7 +255,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "O lyrickém zloději",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_022.md",
@@ -224,7 +266,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Soud pana Havleny",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_023.md",
@@ -233,7 +277,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Jehla",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_024.md",
@@ -242,7 +288,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Telegram",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_025.md",
@@ -251,7 +299,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Muž, který nemohl spát",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_026.md",
@@ -260,7 +310,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Sbírka známek",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_027.md",
@@ -269,7 +321,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Obyčejná vražda",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_028.md",
@@ -278,7 +332,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Porotce",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_029.md",
@@ -287,7 +343,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Poslední věci člověka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_030.md",
@@ -296,7 +354,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Ediční poznámka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_031.md",
@@ -305,7 +365,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Život a doba spisovatele\nKarla Čapka v datech",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_032.md",
@@ -314,7 +376,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "První\nvydání knih Karla Čapka",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_033.md",
@@ -323,16 +387,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "Poznámky pod čarou",
+        "subtitle": ""
       },
       {
         "filename": "povidky_z_druhe_kapsy_034.md",
         "xhtml": "povidky_z_druhe_kapsy_034.html",
         "id": 33,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -342,8 +410,7 @@
       "identifier": "f10f3d4a-0c24-4e60-964f-2464466a2a48",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-15T21:10:37.325Z",
-      "languageCode": "cs"
+      "modified": "2021-09-16T06:33:00.126Z"
     },
     "chapters": [
       {
@@ -371,175 +438,175 @@
         "xhtml": "povidky_z_druhe_kapsy_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_005.md",
         "xhtml": "povidky_z_druhe_kapsy_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ukradený kaktus",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_006.md",
         "xhtml": "povidky_z_druhe_kapsy_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Povídka starého\nkriminálníka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_007.md",
         "xhtml": "povidky_z_druhe_kapsy_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Zmizení pana Hirsche",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_008.md",
         "xhtml": "povidky_z_druhe_kapsy_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Čintamani a ptáci",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_009.md",
         "xhtml": "povidky_z_druhe_kapsy_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Příběh o kasaři a žháři",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_010.md",
         "xhtml": "povidky_z_druhe_kapsy_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ukradená vražda",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_011.md",
         "xhtml": "povidky_z_druhe_kapsy_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Případ s dítětem",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_012.md",
         "xhtml": "povidky_z_druhe_kapsy_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Grófinka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_013.md",
         "xhtml": "povidky_z_druhe_kapsy_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Historie dirigenta Kaliny",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_014.md",
         "xhtml": "povidky_z_druhe_kapsy_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Smrt barona Gandary",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_015.md",
         "xhtml": "povidky_z_druhe_kapsy_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Příběhy sňatkového\npodvodníka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_016.md",
         "xhtml": "povidky_z_druhe_kapsy_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Balada o Juraji Čupovi",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_017.md",
         "xhtml": "povidky_z_druhe_kapsy_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Povídka o ztracené noze",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_018.md",
         "xhtml": "povidky_z_druhe_kapsy_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Závrať",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_019.md",
         "xhtml": "povidky_z_druhe_kapsy_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ušní zpověď",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_020.md",
         "xhtml": "povidky_z_druhe_kapsy_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O lyrickém zloději",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_021.md",
         "xhtml": "povidky_z_druhe_kapsy_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Soud pana Havleny",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_022.md",
         "xhtml": "povidky_z_druhe_kapsy_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jehla",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_023.md",
         "xhtml": "povidky_z_druhe_kapsy_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Telegram",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_024.md",
         "xhtml": "povidky_z_druhe_kapsy_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Muž, který nemohl spát",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_025.md",
         "xhtml": "povidky_z_druhe_kapsy_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Sbírka známek",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_026.md",
         "xhtml": "povidky_z_druhe_kapsy_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Obyčejná vražda",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_027.md",
         "xhtml": "povidky_z_druhe_kapsy_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Porotce",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_028.md",
         "xhtml": "povidky_z_druhe_kapsy_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poslední věci člověka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_029.md",
         "xhtml": "povidky_z_druhe_kapsy_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_030.md",
         "xhtml": "povidky_z_druhe_kapsy_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_031.md",
         "xhtml": "povidky_z_druhe_kapsy_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První\nvydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_032.md",
         "xhtml": "povidky_z_druhe_kapsy_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_033.md",
         "xhtml": "povidky_z_druhe_kapsy_033.html"
@@ -641,6 +708,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-druhe-kapsy"
     },
-    "generatedAt": 1631740237835
+    "generatedAt": 1631773980675
   }
 }
