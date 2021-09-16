@@ -23,7 +23,7 @@
       "blockquote": "",
       "figure": "",
       "em": "mlpznakkurziva11b\nmlpdopispodpisi",
-      "strong": "mlptirazautoranazev\nmlpznaktucne11b",
+      "strong": "mlptirazautoranazev\nmlpznaktucne11b\nmlptextbez1radkub",
       "remove": "",
       "ignore": ""
     },
@@ -410,7 +410,7 @@
       "identifier": "f10f3d4a-0c24-4e60-964f-2464466a2a48",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-16T06:55:32.019Z"
+      "modified": "2021-09-16T06:59:42.471Z"
     },
     "chapters": [
       {
@@ -708,6 +708,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-druhe-kapsy"
     },
-    "generatedAt": 1631775332712
+    "generatedAt": 1631775583064
   }
 }
