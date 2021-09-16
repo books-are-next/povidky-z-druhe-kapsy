@@ -10,4 +10,4 @@ Nyní po devíti letech se k vydání souborného Čapkova díla vracíme, abych
 
 Přejeme vám hezké čtení.
 
-Redakce MKP
+_Redakce MKP_

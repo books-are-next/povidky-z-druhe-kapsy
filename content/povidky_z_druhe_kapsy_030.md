@@ -6,4 +6,4 @@ Při zpracování textu jsme se řídili aktuálním zněním pravidel českého
 
 Pro snazší čtenářovu orientaci jsme dobové nebo zastaralé výrazy opatřili vysvětlivkami, umístěnými do poznámek pod čarou.
 
-Redakce MKP
+_Redakce MKP_
