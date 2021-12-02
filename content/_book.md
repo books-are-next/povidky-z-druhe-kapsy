@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-15T21:10:37.325Z'
   languageCode: cs
-chapters:
-  - povidky_z_druhe_kapsy_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - povidky_z_druhe_kapsy_002.html
   - povidky_z_druhe_kapsy_005.html
   - povidky_z_druhe_kapsy_006.html
@@ -41,6 +42,7 @@ chapters:
   - povidky_z_druhe_kapsy_031.html
   - povidky_z_druhe_kapsy_032.html
   - povidky_z_druhe_kapsy_033.html
+  - colophon.html
 tocBase:
   - link: povidky_z_druhe_kapsy_005.html
     title: Předmluva
@@ -114,5 +116,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---

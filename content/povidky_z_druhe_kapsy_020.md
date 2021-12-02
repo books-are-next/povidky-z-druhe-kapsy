@@ -2,7 +2,7 @@
 title: Ušní zpověď
 ---
 
-„Potlačené představy,“ mínil páter Voves, farář od Sv. Matěje, „poslouchejte, kurýrovat tyhle potlačené představy, to je jedna z nejstarších lidských zkušeností: jenže naše svatá církev té medicíně říká sacramentum sanctae confessionis[\[15\]](../Text/povidky_z_druhe_kapsy_033.html#_ftn15). Když tě něco v duši tlačí, když se za něco hanbíš, jdi, kujóne, k svaté zpovědi a vyznej se z toho neřádu, co v sobě nosíš! Jenže my tomu neříkáme léčení nervových poruch; my tomu říkáme lítost, pokání a odpuštění hříchů.
+„Potlačené představy,“ mínil páter Voves, farář od Sv. Matěje, „poslouchejte, kurýrovat tyhle potlačené představy, to je jedna z nejstarších lidských zkušeností: jenže naše svatá církev té medicíně říká sacramentum sanctae confessionis[\[15\]](./resources/undefined). Když tě něco v duši tlačí, když se za něco hanbíš, jdi, kujóne, k svaté zpovědi a vyznej se z toho neřádu, co v sobě nosíš! Jenže my tomu neříkáme léčení nervových poruch; my tomu říkáme lítost, pokání a odpuštění hříchů.
 
 Počkejte, tomu už je řada let; byl ukrutně horký letní den, a tak jsem si zašel do svého kostelíčka – víte, já si myslím, že tihle evandělíci mohli vzniknout jenom v severních krajinách, kde není ani v létě člověku horko. V takovém našem, katolickém kostele máš po celý boží den něco, mše, modlení, nešpory nebo aspoň ty obrazy a sochy; můžeš si tam kdykoliv zaskočit, ochladíš se a porozjímáš – k tomu ale pasuje, když je venku jako v peci. Proto máte berany v těch chladných a nehostinných zemích a nás katolíky v končinách teplejších; to asi dělá ten stín a chládek ve chrámech Páně. Tedy tenkrát byl takový palčivý den; když jsem vešel do kostela, tak to na člověka tak krásně a smířlivě dýchlo; a tam ke mně přijde kostelník, že tu už přes hodinu čeká jeden člověk, aby se někomu vyzpovídal.
 
@@ -56,13 +56,13 @@ Rád bych věděl, kolik pražských advokátů takhle obešel, ale podruhé už
 
 * * *
 
-„To ještě není konec té historie,“ ozval se dr. Vitásek. „Před několika lety, když jsem byl ve špitále sekundářem, tam přivezli člověka s takovým bledým a naduřelým kontrfejem[\[16\]](../Text/povidky_z_druhe_kapsy_033.html#_ftn16); nohy zpuchlé jako škopky, křeče, potíže s dechem, no zkrátka, krásný zánět ledvin, jak stojí v knize psáno; to se rozumí, pomoc mu už nebyla. Jednou mě zavolala ošetřovatelka, že ten nefritik na sedmičce se zas chystá mít křeče. Tak jdu k němu a vidím, chudák lapá po dechu, zpocený jako myš, oči hrůzou vytřeštěné – tyhle stavy úzkosti při N[\[17\]](../Text/povidky_z_druhe_kapsy_033.html#_ftn17) jsou strašné.
+„To ještě není konec té historie,“ ozval se dr. Vitásek. „Před několika lety, když jsem byl ve špitále sekundářem, tam přivezli člověka s takovým bledým a naduřelým kontrfejem[\[16\]](./resources/undefined); nohy zpuchlé jako škopky, křeče, potíže s dechem, no zkrátka, krásný zánět ledvin, jak stojí v knize psáno; to se rozumí, pomoc mu už nebyla. Jednou mě zavolala ošetřovatelka, že ten nefritik na sedmičce se zas chystá mít křeče. Tak jdu k němu a vidím, chudák lapá po dechu, zpocený jako myš, oči hrůzou vytřeštěné – tyhle stavy úzkosti při N[\[17\]](./resources/undefined) jsou strašné.
 
 Fotr, povídám mu, já vám dám injekci a bude zas dobře.
 
 Pacient zavrtěl hlavou. Doktore, vypravil ze sebe, já… já vám musím něco říct… Ať jde ta ženská pryč!
 
-Já bych mu byl raději vpíchnul Em O[\[18\]](../Text/povidky_z_druhe_kapsy_033.html#_ftn18), ale když jsem viděl ty jeho oči, poslal jsem ošetřovatelku po svých. Tak ven s tím, přítelíčku, povídám, ale potom půjdete spat.
+Já bych mu byl raději vpíchnul Em O[\[18\]](./resources/undefined), ale když jsem viděl ty jeho oči, poslal jsem ošetřovatelku po svých. Tak ven s tím, přítelíčku, povídám, ale potom půjdete spat.
 
 Doktore, úpěl ten člověk, a přitom byl v jeho očích takový vám šílený strach, doktore, já už nemohu – já pořád vidím tu – já nemohu spát, já vám to musím říci –
 
