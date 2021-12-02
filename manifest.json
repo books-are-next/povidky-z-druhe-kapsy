@@ -1,94 +1,46 @@
 {
   "author": "Karel Čapek",
-  "identifier": "capek-povidky-z-druhe-kapsy-a24e8a2",
+  "edition": "beletrie",
+  "identifier": "capek-povidky-z-druhe-kapsy-bb392d0",
   "languagecode": "cs",
   "modified": "2021-09-15T21:10:37.325Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Povídky z druhé kapsy",
-  "revision": "a24e8a2",
+  "revision": "bb392d0",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:28:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379714179
+    "date": "Thu Dec 02 2021 07:59:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638431997252
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 142,
-      "chars": 915,
-      "ideas": 23,
-      "role": "colophon",
-      "order": null,
-      "next": "povidky_z_druhe_kapsy_001.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "povidky_z_druhe_kapsy_001.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "povidky_z_druhe_kapsy_001.html",
+      "title": "Povídky z druhé kapsy",
+      "file": "povidky_z_druhe_kapsy_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "povidky_z_druhe_kapsy_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "povidky_z_druhe_kapsy_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "povidky_z_druhe_kapsy_001.html",
       "next": "povidky_z_druhe_kapsy_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Předmluva",
+      "title": "Předmluva • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "povidky_z_druhe_kapsy_002.html",
       "next": "povidky_z_druhe_kapsy_006.html",
       "toc": [
@@ -96,19 +48,19 @@
           "index": 0,
           "level": 1,
           "name": "Předmluva",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ukradený kaktus",
+      "title": "Ukradený kaktus • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_006.html",
       "words": 1956,
       "chars": 11437,
       "ideas": 28,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "povidky_z_druhe_kapsy_005.html",
       "next": "povidky_z_druhe_kapsy_007.html",
       "toc": [
@@ -116,19 +68,19 @@
           "index": 0,
           "level": 1,
           "name": "Ukradený kaktus",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Povídka starého\nkriminálníka",
+      "title": "Povídka starého\nkriminálníka • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_007.html",
       "words": 1716,
       "chars": 9512,
       "ideas": 15,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "povidky_z_druhe_kapsy_006.html",
       "next": "povidky_z_druhe_kapsy_008.html",
       "toc": [
@@ -136,19 +88,19 @@
           "index": 0,
           "level": 1,
           "name": "Povídka starého\nkriminálníka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zmizení pana Hirsche",
+      "title": "Zmizení pana Hirsche • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_008.html",
       "words": 1980,
       "chars": 10780,
       "ideas": 17,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "povidky_z_druhe_kapsy_007.html",
       "next": "povidky_z_druhe_kapsy_009.html",
       "toc": [
@@ -156,19 +108,19 @@
           "index": 0,
           "level": 1,
           "name": "Zmizení pana Hirsche",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Čintamani a ptáci",
+      "title": "Čintamani a ptáci • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_009.html",
       "words": 3176,
       "chars": 17614,
       "ideas": 35,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "povidky_z_druhe_kapsy_008.html",
       "next": "povidky_z_druhe_kapsy_010.html",
       "toc": [
@@ -176,19 +128,19 @@
           "index": 0,
           "level": 1,
           "name": "Čintamani a ptáci",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Příběh o kasaři a žháři",
+      "title": "Příběh o kasaři a žháři • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_010.html",
       "words": 2181,
       "chars": 11791,
       "ideas": 23,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "povidky_z_druhe_kapsy_009.html",
       "next": "povidky_z_druhe_kapsy_011.html",
       "toc": [
@@ -196,19 +148,19 @@
           "index": 0,
           "level": 1,
           "name": "Příběh o kasaři a žháři",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ukradená vražda",
+      "title": "Ukradená vražda • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_011.html",
       "words": 2228,
       "chars": 12441,
       "ideas": 39,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "povidky_z_druhe_kapsy_010.html",
       "next": "povidky_z_druhe_kapsy_012.html",
       "toc": [
@@ -216,19 +168,19 @@
           "index": 0,
           "level": 1,
           "name": "Ukradená vražda",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Případ s dítětem",
+      "title": "Případ s dítětem • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_012.html",
       "words": 2436,
       "chars": 13950,
       "ideas": 75,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "povidky_z_druhe_kapsy_011.html",
       "next": "povidky_z_druhe_kapsy_013.html",
       "toc": [
@@ -236,19 +188,19 @@
           "index": 0,
           "level": 1,
           "name": "Případ s dítětem",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Grófinka",
+      "title": "Grófinka • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_013.html",
       "words": 1663,
       "chars": 9557,
       "ideas": 25,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "povidky_z_druhe_kapsy_012.html",
       "next": "povidky_z_druhe_kapsy_014.html",
       "toc": [
@@ -256,19 +208,19 @@
           "index": 0,
           "level": 1,
           "name": "Grófinka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Historie dirigenta Kaliny",
+      "title": "Historie dirigenta Kaliny • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_014.html",
       "words": 1703,
       "chars": 9632,
       "ideas": 16,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "povidky_z_druhe_kapsy_013.html",
       "next": "povidky_z_druhe_kapsy_015.html",
       "toc": [
@@ -276,19 +228,19 @@
           "index": 0,
           "level": 1,
           "name": "Historie dirigenta Kaliny",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Smrt barona Gandary",
+      "title": "Smrt barona Gandary • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_015.html",
       "words": 1485,
       "chars": 8431,
       "ideas": 26,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "povidky_z_druhe_kapsy_014.html",
       "next": "povidky_z_druhe_kapsy_016.html",
       "toc": [
@@ -296,19 +248,19 @@
           "index": 0,
           "level": 1,
           "name": "Smrt barona Gandary",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Příběhy sňatkového\npodvodníka",
+      "title": "Příběhy sňatkového\npodvodníka • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_016.html",
       "words": 2201,
       "chars": 12078,
       "ideas": 45,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "povidky_z_druhe_kapsy_015.html",
       "next": "povidky_z_druhe_kapsy_017.html",
       "toc": [
@@ -316,19 +268,19 @@
           "index": 0,
           "level": 1,
           "name": "Příběhy sňatkového\npodvodníka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Balada o Juraji Čupovi",
+      "title": "Balada o Juraji Čupovi • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_017.html",
       "words": 1587,
       "chars": 9011,
       "ideas": 37,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "povidky_z_druhe_kapsy_016.html",
       "next": "povidky_z_druhe_kapsy_018.html",
       "toc": [
@@ -336,19 +288,19 @@
           "index": 0,
           "level": 1,
           "name": "Balada o Juraji Čupovi",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Povídka o ztracené noze",
+      "title": "Povídka o ztracené noze • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_018.html",
       "words": 1595,
       "chars": 8964,
       "ideas": 23,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "povidky_z_druhe_kapsy_017.html",
       "next": "povidky_z_druhe_kapsy_019.html",
       "toc": [
@@ -356,19 +308,19 @@
           "index": 0,
           "level": 1,
           "name": "Povídka o ztracené noze",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Závrať",
+      "title": "Závrať • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_019.html",
       "words": 1597,
       "chars": 9269,
       "ideas": 28,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "povidky_z_druhe_kapsy_018.html",
       "next": "povidky_z_druhe_kapsy_020.html",
       "toc": [
@@ -376,19 +328,19 @@
           "index": 0,
           "level": 1,
           "name": "Závrať",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ušní zpověď",
+      "title": "Ušní zpověď • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_020.html",
       "words": 1304,
       "chars": 7268,
       "ideas": 35,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "povidky_z_druhe_kapsy_019.html",
       "next": "povidky_z_druhe_kapsy_021.html",
       "toc": [
@@ -396,19 +348,19 @@
           "index": 0,
           "level": 1,
           "name": "Ušní zpověď",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "O lyrickém zloději",
+      "title": "O lyrickém zloději • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_021.html",
       "words": 1703,
       "chars": 9664,
       "ideas": 69,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "povidky_z_druhe_kapsy_020.html",
       "next": "povidky_z_druhe_kapsy_022.html",
       "toc": [
@@ -416,19 +368,19 @@
           "index": 0,
           "level": 1,
           "name": "O lyrickém zloději",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Soud pana Havleny",
+      "title": "Soud pana Havleny • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_022.html",
       "words": 1779,
       "chars": 10707,
       "ideas": 25,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "povidky_z_druhe_kapsy_021.html",
       "next": "povidky_z_druhe_kapsy_023.html",
       "toc": [
@@ -436,19 +388,19 @@
           "index": 0,
           "level": 1,
           "name": "Soud pana Havleny",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Jehla",
+      "title": "Jehla • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_023.html",
       "words": 1434,
       "chars": 8037,
       "ideas": 11,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "povidky_z_druhe_kapsy_022.html",
       "next": "povidky_z_druhe_kapsy_024.html",
       "toc": [
@@ -456,19 +408,19 @@
           "index": 0,
           "level": 1,
           "name": "Jehla",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Telegram",
+      "title": "Telegram • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_024.html",
       "words": 1561,
       "chars": 8955,
       "ideas": 61,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "povidky_z_druhe_kapsy_023.html",
       "next": "povidky_z_druhe_kapsy_025.html",
       "toc": [
@@ -476,19 +428,19 @@
           "index": 0,
           "level": 1,
           "name": "Telegram",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Muž, který nemohl spát",
+      "title": "Muž, který nemohl spát • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_025.html",
       "words": 1654,
       "chars": 9245,
       "ideas": 21,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "povidky_z_druhe_kapsy_024.html",
       "next": "povidky_z_druhe_kapsy_026.html",
       "toc": [
@@ -496,19 +448,19 @@
           "index": 0,
           "level": 1,
           "name": "Muž, který nemohl spát",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Sbírka známek",
+      "title": "Sbírka známek • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_026.html",
       "words": 1926,
       "chars": 10717,
       "ideas": 16,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "povidky_z_druhe_kapsy_025.html",
       "next": "povidky_z_druhe_kapsy_027.html",
       "toc": [
@@ -516,19 +468,19 @@
           "index": 0,
           "level": 1,
           "name": "Sbírka známek",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Obyčejná vražda",
+      "title": "Obyčejná vražda • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_027.html",
       "words": 1464,
       "chars": 8114,
       "ideas": 14,
       "role": "chapter",
-      "order": 24,
+      "order": 23,
       "prev": "povidky_z_druhe_kapsy_026.html",
       "next": "povidky_z_druhe_kapsy_028.html",
       "toc": [
@@ -536,19 +488,19 @@
           "index": 0,
           "level": 1,
           "name": "Obyčejná vražda",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Porotce",
+      "title": "Porotce • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_028.html",
       "words": 1779,
       "chars": 10350,
       "ideas": 21,
       "role": "chapter",
-      "order": 25,
+      "order": 24,
       "prev": "povidky_z_druhe_kapsy_027.html",
       "next": "povidky_z_druhe_kapsy_029.html",
       "toc": [
@@ -556,19 +508,19 @@
           "index": 0,
           "level": 1,
           "name": "Porotce",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poslední věci člověka",
+      "title": "Poslední věci člověka • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_029.html",
       "words": 1162,
       "chars": 6468,
       "ideas": 23,
       "role": "chapter",
-      "order": 26,
+      "order": 25,
       "prev": "povidky_z_druhe_kapsy_028.html",
       "next": "povidky_z_druhe_kapsy_030.html",
       "toc": [
@@ -576,19 +528,19 @@
           "index": 0,
           "level": 1,
           "name": "Poslední věci člověka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Ediční poznámka",
+      "title": "Ediční poznámka • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_030.html",
       "words": 77,
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 27,
+      "order": 26,
       "prev": "povidky_z_druhe_kapsy_029.html",
       "next": "povidky_z_druhe_kapsy_031.html",
       "toc": [
@@ -596,19 +548,19 @@
           "index": 0,
           "level": 1,
           "name": "Ediční poznámka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Život a doba spisovatele\nKarla Čapka v datech",
+      "title": "Život a doba spisovatele\nKarla Čapka v datech • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_031.html",
       "words": 293,
       "chars": 2025,
       "ideas": 32,
       "role": "chapter",
-      "order": 28,
+      "order": 27,
       "prev": "povidky_z_druhe_kapsy_030.html",
       "next": "povidky_z_druhe_kapsy_032.html",
       "toc": [
@@ -616,19 +568,19 @@
           "index": 0,
           "level": 1,
           "name": "Život a doba spisovatele\nKarla Čapka v datech",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka",
+      "title": "První\nvydání knih Karla Čapka • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_032.html",
       "words": 233,
       "chars": 1154,
       "ideas": 68,
       "role": "chapter",
-      "order": 29,
+      "order": 28,
       "prev": "povidky_z_druhe_kapsy_031.html",
       "next": "povidky_z_druhe_kapsy_033.html",
       "toc": [
@@ -636,48 +588,57 @@
           "index": 0,
           "level": 1,
           "name": "První\nvydání knih Karla Čapka",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou",
+      "title": "Poznámky pod čarou • Povídky z druhé kapsy",
       "file": "povidky_z_druhe_kapsy_033.html",
       "words": 231,
       "chars": 1452,
       "ideas": 24,
       "role": "chapter",
-      "order": 30,
+      "order": 29,
       "prev": "povidky_z_druhe_kapsy_032.html",
-      "next": null,
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Poznámky pod čarou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
+      "title": "Tiráž • Povídky z druhé kapsy",
+      "file": "colophon.html",
+      "words": 142,
+      "chars": 915,
+      "ideas": 23,
+      "role": "colophon",
       "order": null,
-      "next": "povidky_z_druhe_kapsy_001.html",
-      "toc": []
+      "prev": "povidky_z_druhe_kapsy_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
     }
   ],
   "totals": {
     "all": {
-      "words": 44387,
-      "chars": 251075,
-      "ideas": 885
+      "words": 44395,
+      "chars": 251118,
+      "ideas": 889
     },
     "chapters": {
       "words": 44245,
