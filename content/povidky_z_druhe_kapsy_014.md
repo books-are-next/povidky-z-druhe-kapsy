@@ -1,5 +1,6 @@
 ---
 title: Historie dirigenta Kaliny
+contentType: prose
 ---
 
 „Taková krevní podlitina nebo obraženina,“ řekl pan Dobeš, „někdy bolí víc než zlomenina; ale to musí být na kosti. Já to znám, já jsem starý fotbalista a měl už jsem zlomené žebro, klíční kost a palec; teď už se nehraje s takovým zápalem jako za mých časů. Tak loni jsem si ještě jednou zahrál; my staří páni jsme chtěli ukázat těm dnešním mládencům, jakou jsme mívali taktiku. Já byl zase bekem, jako před patnácti nebo dvaceti lety; a zrovna když jsem chytal břichem míč, kopl mne můj vlastní brankář do – hm, ono se tomu říká kostrč čili cauda equina. V tom kalupu jsem jenom chvilku nadával a pak jsem na to zapomněl; ale teprve v noci to začalo bolet a ráno jsem se vůbec nemohl hnout. To vám byla taková bolest, že jsem nemohl ani pohnout rukou, ani kejchnout, – to je zvláštní, jak v tomhle lidském těle všechno souvisí. Tak jsem ležel na zádech jako mrtvý brouk, ani na bok jsem se nemohl přeložit, ani palcem u nohy zatřepat, nic; jenom jsem sykal a hekal, jak to děsně bolelo.

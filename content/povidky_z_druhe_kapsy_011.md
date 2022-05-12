@@ -1,5 +1,6 @@
 ---
 title: Ukradená vražda
+contentType: prose
 ---
 
 „To mne upomíná na jeden případ,“ pravil pan Houdek, „který byl taky tak dobře promyšlen a připraven; ale myslím, že se vám nebude líbit, protože nemá žádný konec a rozuzlení. Kdyby vás to nebavilo, tak řekněte a já přestanu.

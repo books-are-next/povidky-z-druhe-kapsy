@@ -1,5 +1,6 @@
 ---
 title: Porotce
+contentType: prose
 ---
 
 „Teda já jsem jednou musel soudit,“ řekl pan Firbas odkašlávaje, „protože jsem byl vylosován za porotce. Tehdy zrovna přišel před porotu ten případ Lujzy Kadaníkové, co zavraždila svého manžela. Nás bylo v porotě osm mužských a čtyři ženské. Tě bůh, řekli jsme si my mužští předem víceméně mlčky, ty čtyři baby budou hledět tu ženskou osvobodit! A tak jsme se už předem proti té Lujze zatvrdili.

@@ -1,5 +1,6 @@
 ---
 title: Soud pana Havleny
+contentType: prose
 ---
 
 „Když už tady pan redaktor začal o novinách,“ pravil pan Beran, „tak já vám něco povím: Nejvíc čtenářů hledá v novinách zrovna tu soudní síň. To nikdo neví, čtou-li ji tak pilně z utajené zločinnosti nebo pro své mravní a právní uspokojení; jisté jenom je, že ji čtou náruživě. Proto musí nějaký ten soud denně v novinách být. Ale teď si vemte, že máte například soudní prázdniny; soudy jsou zavřeny, ale rubrika Ze soudní síně v novinách chybět nesmí. Nebo často není u žádného soudu ani jeden zajímavý případ; a soudní referent musí mít zajímavý případ, ber kde ber. V takových pádech si teda musejí soudní referenti nějaký ten zajímavý trestní případ jednoduše vycucat z prstu. Na takové vymyšlené případy pak mají mezi sebou burzu a kupují je, prodávají, půjčují a vyměňují za dvacet cigaret nebo tak. Já to znám, protože u mé bytné bydlel jeden takový soudní referent; mazavka, to on byl, a lajdák, to on taky byl, ale jináč to byl nadaný a špatně placený mládenec.

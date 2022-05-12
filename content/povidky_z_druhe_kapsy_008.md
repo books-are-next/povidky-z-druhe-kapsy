@@ -1,5 +1,6 @@
 ---
 title: Zmizení pana Hirsche
+contentType: prose
 ---
 
 „Tohle,“ řekl pan Taussig, „nebyl špatný případ, ale má moc velkou chybu: že se nestal v Praze. Víte, i v kriminálních věcech má mít člověk ohled na domov. Prosím vás, co nám je po nějakém případu v Palermu nebo kterých čertech? Z toho my nic nemáme. Ale když se takhle podaří nějaký takový lepší zločin v Praze, tak to mně, páni, zrovna jaksi lichotí; říkám si, teď se o nás mluví v celém světě; víte, ono to tak nějak hřeje. A pak, to dá rozum, v takovém místě, kde se vyvede slušná kriminální věc, mohou jít i obchody; ono to svědčí o větších poměrech, že jo, a budí to vůbec důvěru. Ale to se musí ten pachatel chytit.

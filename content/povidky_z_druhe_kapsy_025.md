@@ -1,5 +1,6 @@
 ---
 title: Muž, který nemohl spát
+contentType: prose
 ---
 
 „Když už tady pan Doležal začal o tom dešifrování,“ děl na to pan Kavka, „tak jsem si vzpomněl na věc, kterou jsem jednou provedl kolegovi Musilovi. On ten Musil je neobyčejně vzdělaný a subtilní člověk, ale takový typ intelektuála: ve všem vidí problém a hledá k němu své stanovisko. Například on má stanovisko i k své vlastní ženě a nežije v manželství, nýbrž v problému manželství; krom toho uznává sociální problém, pohlavní otázku, problém podvědomí, problém výchovy, krizi dnešní kultury a celou řadu jiných problémů. Tihle lidé, co všude nalézají problémy, jsou stejně nesnesitelní jako ti, co mají zásady. Já nemám rád problémy; pro mne vejce je vejce, a kdyby mně někdo začal mluvit o problému vejce, tak se leknu, že to vejce je zkažené. To jen abyste věděli, jaký ten Musil je.

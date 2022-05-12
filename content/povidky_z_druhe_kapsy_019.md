@@ -1,5 +1,6 @@
 ---
 title: Závrať
+contentType: prose
 ---
 
 „Svědomí,“ pravil pan Lacina, „tomu se už tak neříká; teď se to jmenuje potlačené představy, ale to máte prašť jak uhoď. Já nevím, zná-li někdo z vás případ s tím fabrikantem Gierkem. To byl moc bohatý a takový nóbl člověk, veliký a silný jako sloup; říkalo se, že je vdovec, ale jinak o něm nikdo nic nevěděl, taková to byla uzavřená povaha. Tedy když už mu bylo hodně přes čtyřicet, zamiloval se do takové hezoučké malé panenky, sedmnáct let jí bylo a byla tak krásná, že se až člověku dech tajil; tahle skutečná krása, to ti tak nějak sevře srdce takovou lítostí nebo něhou nebo čím. A to děvčátko si Gierke vzal, protože to byl velký a bohatý Gierke.

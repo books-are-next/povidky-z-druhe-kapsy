@@ -1,5 +1,6 @@
 ---
 title: Ukradený kaktus
+contentType: prose
 ---
 
 „Tak já vám povím,“ pravil pan Kubát, „co se mně letos v létě stalo.

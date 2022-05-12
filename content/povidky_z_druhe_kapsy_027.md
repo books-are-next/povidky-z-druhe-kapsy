@@ -1,5 +1,6 @@
 ---
 title: Obyčejná vražda
+contentType: prose
 ---
 
 „Často jsem přemýšlel,“ řekl na to pan Hanák, „proč se nám zdá být křivda něčím horším, než já nevím co zlého, co může člověka potkat. Tak příkladně kdybychom viděli, že jediný člověk byl nevinně odsouzen do vězení, znepokojí a trápí nás to víc, než když tisíce lidí žije v bídě a bolesti. Já viděl takovou bídu, že každý kriminál je proti ní zrovna blahobyt; a přece nás ta nejhorší bída tak neurazí jako křivda. Já bych řekl, že v nás je nějaký justiční instinkt; a že vina a nevina, právo a spravedlnost jsou stejně prvotní, strašné a hluboké city jako láska a hlad.

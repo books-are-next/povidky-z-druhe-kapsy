@@ -1,5 +1,6 @@
 ---
 title: Sbírka známek
+contentType: prose
 ---
 
 „To teda je svatá pravda,“ řekl starý pan Karas. „Kdyby se člověk hrabal ve své minulosti, našel by, že v ní je dost látky na docela jiné životy. Jednou… buď omylem, nebo z náklonnosti… si vybral jenom jeden z nich a dožívá jej až do konce; ale nejhorší je, že ty druhé, ty možné životy nejsou tak docela mrtvé. A někdy se stane, že v nich pocítíš bolest jako v uříznuté noze.

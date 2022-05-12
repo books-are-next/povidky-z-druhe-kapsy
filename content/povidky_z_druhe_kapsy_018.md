@@ -1,5 +1,6 @@
 ---
 title: Povídka o ztracené noze
+contentType: prose
 ---
 
 „To by leckdo ani nevěřil,“ děl na to pan Tymich, „co člověk někdy vydrží. Počkejte, to bylo za války, když jsem sloužil u pětatřicátých; měli jsme tam jednoho vojáčka, jakpak on se jmenoval, nějak jako Dynda nebo Otáhal nebo Peterka, ale my jsme mu říkali Pepku; jináč moc hodný člověk, ale jelimánek, že bys nad ním brečel. No, dokud nás honili po execíráku, dělal, co mohl, a trpěl jako beránek; ale když nás dovezli na frontu, to bylo tenkrát za Krakovem, vybrali pro nás nějaké nešikovné místo, do kterého se zrovna strefovala ruská artilerie. Pepek nic, jenom mrkal; ale když přišel k jednomu koni s roztrženým břichem a ten kůň ještě frkal a pokoušel se vstát, tu vám ten Pepek zbledl, praštil čepicí o zem, dopustil se urážky Veličenstva, položil na zem kvér a ruksak a ubíral se zpátky.

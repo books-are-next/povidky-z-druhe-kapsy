@@ -1,5 +1,6 @@
 ---
 title: Příběh o kasaři a žháři
+contentType: prose
 ---
 
 „Copak o to,“ pravil pan Jílek, „krást se musí umět. To říkával taky pan Balabán, ten kasař, co naposledy udělal tu kasu u firmy Scholle a spol. Ten Balabán, to byl takový vzdělaný a rozšafný lupič; taky už byl starší, a to dá rozum, ty zkušenosti každý nemá. Mladý člověk má spíš takový hazard; ono se s kuráží ledacos podaří, ale když člověk začne přemýšlet, tak obyčejně ztrácí tu kuráž, a proto jde na věc s rozvahou. To platí v politice a ve všem.

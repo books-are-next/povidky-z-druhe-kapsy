@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+contentType: prose
 ---
 
 [\[1\]](./resources/undefined) Glochidy/glochidie (řec.) – ostnaté chlupy kaktusovitých rostlin. _Pozn. red._

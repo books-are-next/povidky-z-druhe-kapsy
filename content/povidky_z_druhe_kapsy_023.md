@@ -1,5 +1,6 @@
 ---
 title: Jehla
+contentType: prose
 ---
 
 „Já jsem sic neměl nikdy co dělat se soudy,“ pravil pan Kostelecký, „ale já vám řeknu, mně se na nich zrovna líbí ta náramná akurátnost a ty orace a okolky, co soudy leckdy dělají, třeba by šlo jen o kozí chlup. Ono to budí takovou důvěru ve spravedlnost. Má-li justice v rukou vážky, tak ať jsou hapatykářské, a když už drží meč, tak ať je ostrý jako břitva. To mně připomíná jeden případ, který se stal v naší ulici.
