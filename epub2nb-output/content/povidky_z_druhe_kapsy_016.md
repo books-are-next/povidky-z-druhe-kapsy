@@ -1,7 +1,6 @@
 ---
-title: |-
-  Příběhy sňatkového
-  podvodníka
+title: Příběhy sňatkového podvodníka
+contentType: prose
 ---
 
 „To teda je pravda,“ pravil detektiv Holub a skromně odkašlal. „My na policii nemáme rádi nějaké extra a nebývalé případy; my taky nemáme rádi nové lidi. Takový starý, osvědčený zločinec, to je docela jiná práce; předně hnedle víme, že to udělal, protože to je jeho obor; za druhé víme, kde ho najít, a za třetí nám nedělá žádné cavyky a nezapírá, protože už ví, že mu to není nic platno. Páni, s takovým zkušeným člověkem pracovat je jedna radost. A já vám řeknu, že i v kriminále se tihle řemeslní zločinci těší zvláštní oblibě a důvěře; oni ti nováčkové a nahodilí provinilci jsou největší kverulanti a renitenti[\[9\]](./resources/undefined) a nic jim není recht; ale takový starý kriminálník ví, že arest je riziko práce, a tak to zbytečně nezhořčuje sobě ani těm druhým. Ale to už sem vlastně nepatří.

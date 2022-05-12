@@ -1,5 +1,6 @@
 ---
 title: Ušní zpověď
+contentType: prose
 ---
 
 „Potlačené představy,“ mínil páter Voves, farář od Sv. Matěje, „poslouchejte, kurýrovat tyhle potlačené představy, to je jedna z nejstarších lidských zkušeností: jenže naše svatá církev té medicíně říká sacramentum sanctae confessionis[\[15\]](./resources/undefined). Když tě něco v duši tlačí, když se za něco hanbíš, jdi, kujóne, k svaté zpovědi a vyznej se z toho neřádu, co v sobě nosíš! Jenže my tomu neříkáme léčení nervových poruch; my tomu říkáme lítost, pokání a odpuštění hříchů.

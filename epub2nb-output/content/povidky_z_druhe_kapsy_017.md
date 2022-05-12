@@ -1,5 +1,6 @@
 ---
 title: Balada o Juraji Čupovi
+contentType: prose
 ---
 
 „To se, páni, opravdu stává,“ pravil na to četnický kapitán Havelka, „totiž to, že se u zločinců někdy vyskytne taková zvláštní svědomitost a řádnost. O tom bych vám mohl povídat všelijaké případy, ale nejdivnější je ten s Jurajem Čupem. To se mně stalo, když jsem byl u žandarmů na Podkarpatsku v Jasině.

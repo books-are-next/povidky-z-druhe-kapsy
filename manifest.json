@@ -1,21 +1,56 @@
 {
-  "author": "Karel Čapek",
-  "edition": "beletrie",
-  "identifier": "capek-povidky-z-druhe-kapsy-bb392d0",
-  "languagecode": "cs",
-  "modified": "2021-09-15T21:10:37.325Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Povídky z druhé kapsy",
-  "revision": "bb392d0",
+  "author": "Karel Čapek",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "capek-povidky-z-druhe-kapsy-1dcb88a",
+  "revision": "1dcb88a",
+  "readingOrder": [
+    "promo.html",
+    "povidky_z_druhe_kapsy_005.html",
+    "povidky_z_druhe_kapsy_006.html",
+    "povidky_z_druhe_kapsy_007.html",
+    "povidky_z_druhe_kapsy_008.html",
+    "povidky_z_druhe_kapsy_009.html",
+    "povidky_z_druhe_kapsy_010.html",
+    "povidky_z_druhe_kapsy_011.html",
+    "povidky_z_druhe_kapsy_012.html",
+    "povidky_z_druhe_kapsy_013.html",
+    "povidky_z_druhe_kapsy_014.html",
+    "povidky_z_druhe_kapsy_015.html",
+    "povidky_z_druhe_kapsy_016.html",
+    "povidky_z_druhe_kapsy_017.html",
+    "povidky_z_druhe_kapsy_018.html",
+    "povidky_z_druhe_kapsy_019.html",
+    "povidky_z_druhe_kapsy_020.html",
+    "povidky_z_druhe_kapsy_021.html",
+    "povidky_z_druhe_kapsy_022.html",
+    "povidky_z_druhe_kapsy_023.html",
+    "povidky_z_druhe_kapsy_024.html",
+    "povidky_z_druhe_kapsy_025.html",
+    "povidky_z_druhe_kapsy_026.html",
+    "povidky_z_druhe_kapsy_027.html",
+    "povidky_z_druhe_kapsy_028.html",
+    "povidky_z_druhe_kapsy_029.html",
+    "povidky_z_druhe_kapsy_030.html",
+    "povidky_z_druhe_kapsy_031.html",
+    "povidky_z_druhe_kapsy_032.html",
+    "povidky_z_druhe_kapsy_033.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 07:59:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638431997252
+    "date": "Thu May 12 2022 10:36:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351796067
   },
   "documents": [
     {
-      "title": "Povídky z druhé kapsy",
-      "file": "povidky_z_druhe_kapsy_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +58,17 @@
       "order": 0,
       "prev": null,
       "next": "povidky_z_druhe_kapsy_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Předmluva • Povídky z druhé kapsy",
+      "title": "Předmluva",
       "file": "povidky_z_druhe_kapsy_005.html",
       "words": 141,
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
       "order": 1,
-      "prev": "povidky_z_druhe_kapsy_002.html",
+      "prev": "promo.html",
       "next": "povidky_z_druhe_kapsy_006.html",
       "toc": [
         {
@@ -54,7 +81,7 @@
       ]
     },
     {
-      "title": "Ukradený kaktus • Povídky z druhé kapsy",
+      "title": "Ukradený kaktus",
       "file": "povidky_z_druhe_kapsy_006.html",
       "words": 1956,
       "chars": 11437,
@@ -74,11 +101,11 @@
       ]
     },
     {
-      "title": "Povídka starého\nkriminálníka • Povídky z druhé kapsy",
+      "title": "Povídka starého kriminálníka",
       "file": "povidky_z_druhe_kapsy_007.html",
       "words": 1716,
-      "chars": 9512,
-      "ideas": 15,
+      "chars": 9513,
+      "ideas": 14,
       "role": "chapter",
       "order": 3,
       "prev": "povidky_z_druhe_kapsy_006.html",
@@ -87,14 +114,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Povídka starého\nkriminálníka",
+          "name": "Povídka starého kriminálníka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Zmizení pana Hirsche • Povídky z druhé kapsy",
+      "title": "Zmizení pana Hirsche",
       "file": "povidky_z_druhe_kapsy_008.html",
       "words": 1980,
       "chars": 10780,
@@ -114,7 +141,7 @@
       ]
     },
     {
-      "title": "Čintamani a ptáci • Povídky z druhé kapsy",
+      "title": "Čintamani a ptáci",
       "file": "povidky_z_druhe_kapsy_009.html",
       "words": 3176,
       "chars": 17614,
@@ -134,7 +161,7 @@
       ]
     },
     {
-      "title": "Příběh o kasaři a žháři • Povídky z druhé kapsy",
+      "title": "Příběh o kasaři a žháři",
       "file": "povidky_z_druhe_kapsy_010.html",
       "words": 2181,
       "chars": 11791,
@@ -154,7 +181,7 @@
       ]
     },
     {
-      "title": "Ukradená vražda • Povídky z druhé kapsy",
+      "title": "Ukradená vražda",
       "file": "povidky_z_druhe_kapsy_011.html",
       "words": 2228,
       "chars": 12441,
@@ -174,7 +201,7 @@
       ]
     },
     {
-      "title": "Případ s dítětem • Povídky z druhé kapsy",
+      "title": "Případ s dítětem",
       "file": "povidky_z_druhe_kapsy_012.html",
       "words": 2436,
       "chars": 13950,
@@ -194,7 +221,7 @@
       ]
     },
     {
-      "title": "Grófinka • Povídky z druhé kapsy",
+      "title": "Grófinka",
       "file": "povidky_z_druhe_kapsy_013.html",
       "words": 1663,
       "chars": 9557,
@@ -214,7 +241,7 @@
       ]
     },
     {
-      "title": "Historie dirigenta Kaliny • Povídky z druhé kapsy",
+      "title": "Historie dirigenta Kaliny",
       "file": "povidky_z_druhe_kapsy_014.html",
       "words": 1703,
       "chars": 9632,
@@ -234,7 +261,7 @@
       ]
     },
     {
-      "title": "Smrt barona Gandary • Povídky z druhé kapsy",
+      "title": "Smrt barona Gandary",
       "file": "povidky_z_druhe_kapsy_015.html",
       "words": 1485,
       "chars": 8431,
@@ -254,11 +281,11 @@
       ]
     },
     {
-      "title": "Příběhy sňatkového\npodvodníka • Povídky z druhé kapsy",
+      "title": "Příběhy sňatkového podvodníka",
       "file": "povidky_z_druhe_kapsy_016.html",
       "words": 2201,
-      "chars": 12078,
-      "ideas": 45,
+      "chars": 12079,
+      "ideas": 44,
       "role": "chapter",
       "order": 12,
       "prev": "povidky_z_druhe_kapsy_015.html",
@@ -267,14 +294,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Příběhy sňatkového\npodvodníka",
+          "name": "Příběhy sňatkového podvodníka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Balada o Juraji Čupovi • Povídky z druhé kapsy",
+      "title": "Balada o Juraji Čupovi",
       "file": "povidky_z_druhe_kapsy_017.html",
       "words": 1587,
       "chars": 9011,
@@ -294,7 +321,7 @@
       ]
     },
     {
-      "title": "Povídka o ztracené noze • Povídky z druhé kapsy",
+      "title": "Povídka o ztracené noze",
       "file": "povidky_z_druhe_kapsy_018.html",
       "words": 1595,
       "chars": 8964,
@@ -314,7 +341,7 @@
       ]
     },
     {
-      "title": "Závrať • Povídky z druhé kapsy",
+      "title": "Závrať",
       "file": "povidky_z_druhe_kapsy_019.html",
       "words": 1597,
       "chars": 9269,
@@ -334,7 +361,7 @@
       ]
     },
     {
-      "title": "Ušní zpověď • Povídky z druhé kapsy",
+      "title": "Ušní zpověď",
       "file": "povidky_z_druhe_kapsy_020.html",
       "words": 1304,
       "chars": 7268,
@@ -354,7 +381,7 @@
       ]
     },
     {
-      "title": "O lyrickém zloději • Povídky z druhé kapsy",
+      "title": "O lyrickém zloději",
       "file": "povidky_z_druhe_kapsy_021.html",
       "words": 1703,
       "chars": 9664,
@@ -374,7 +401,7 @@
       ]
     },
     {
-      "title": "Soud pana Havleny • Povídky z druhé kapsy",
+      "title": "Soud pana Havleny",
       "file": "povidky_z_druhe_kapsy_022.html",
       "words": 1779,
       "chars": 10707,
@@ -394,7 +421,7 @@
       ]
     },
     {
-      "title": "Jehla • Povídky z druhé kapsy",
+      "title": "Jehla",
       "file": "povidky_z_druhe_kapsy_023.html",
       "words": 1434,
       "chars": 8037,
@@ -414,7 +441,7 @@
       ]
     },
     {
-      "title": "Telegram • Povídky z druhé kapsy",
+      "title": "Telegram",
       "file": "povidky_z_druhe_kapsy_024.html",
       "words": 1561,
       "chars": 8955,
@@ -434,7 +461,7 @@
       ]
     },
     {
-      "title": "Muž, který nemohl spát • Povídky z druhé kapsy",
+      "title": "Muž, který nemohl spát",
       "file": "povidky_z_druhe_kapsy_025.html",
       "words": 1654,
       "chars": 9245,
@@ -454,7 +481,7 @@
       ]
     },
     {
-      "title": "Sbírka známek • Povídky z druhé kapsy",
+      "title": "Sbírka známek",
       "file": "povidky_z_druhe_kapsy_026.html",
       "words": 1926,
       "chars": 10717,
@@ -474,7 +501,7 @@
       ]
     },
     {
-      "title": "Obyčejná vražda • Povídky z druhé kapsy",
+      "title": "Obyčejná vražda",
       "file": "povidky_z_druhe_kapsy_027.html",
       "words": 1464,
       "chars": 8114,
@@ -494,7 +521,7 @@
       ]
     },
     {
-      "title": "Porotce • Povídky z druhé kapsy",
+      "title": "Porotce",
       "file": "povidky_z_druhe_kapsy_028.html",
       "words": 1779,
       "chars": 10350,
@@ -514,7 +541,7 @@
       ]
     },
     {
-      "title": "Poslední věci člověka • Povídky z druhé kapsy",
+      "title": "Poslední věci člověka",
       "file": "povidky_z_druhe_kapsy_029.html",
       "words": 1162,
       "chars": 6468,
@@ -534,7 +561,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Povídky z druhé kapsy",
+      "title": "Ediční poznámka",
       "file": "povidky_z_druhe_kapsy_030.html",
       "words": 77,
       "chars": 606,
@@ -554,11 +581,11 @@
       ]
     },
     {
-      "title": "Život a doba spisovatele\nKarla Čapka v datech • Povídky z druhé kapsy",
+      "title": "Život a doba spisovatele Karla Čapka v datech",
       "file": "povidky_z_druhe_kapsy_031.html",
       "words": 293,
-      "chars": 2025,
-      "ideas": 32,
+      "chars": 2026,
+      "ideas": 31,
       "role": "chapter",
       "order": 27,
       "prev": "povidky_z_druhe_kapsy_030.html",
@@ -567,18 +594,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele\nKarla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "První\nvydání knih Karla Čapka • Povídky z druhé kapsy",
+      "title": "První vydání knih Karla Čapka",
       "file": "povidky_z_druhe_kapsy_032.html",
       "words": 233,
-      "chars": 1154,
-      "ideas": 68,
+      "chars": 1155,
+      "ideas": 67,
       "role": "chapter",
       "order": 28,
       "prev": "povidky_z_druhe_kapsy_031.html",
@@ -587,14 +614,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "První\nvydání knih Karla Čapka",
+          "name": "První vydání knih Karla Čapka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Povídky z druhé kapsy",
+      "title": "Poznámky pod čarou",
       "file": "povidky_z_druhe_kapsy_033.html",
       "words": 231,
       "chars": 1452,
@@ -614,11 +641,11 @@
       ]
     },
     {
-      "title": "Tiráž • Povídky z druhé kapsy",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 915,
-      "ideas": 23,
+      "words": 111,
+      "chars": 719,
+      "ideas": 14,
       "role": "colophon",
       "order": null,
       "prev": "povidky_z_druhe_kapsy_033.html",
@@ -636,14 +663,14 @@
   ],
   "totals": {
     "all": {
-      "words": 44395,
-      "chars": 251118,
-      "ideas": 889
+      "words": 44364,
+      "chars": 250926,
+      "ideas": 876
     },
     "chapters": {
       "words": 44245,
-      "chars": 250160,
-      "ideas": 862
+      "chars": 250164,
+      "ideas": 858
     }
   }
 }

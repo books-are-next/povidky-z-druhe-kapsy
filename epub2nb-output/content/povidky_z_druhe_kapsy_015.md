@@ -1,5 +1,6 @@
 ---
 title: Smrt barona Gandary
+contentType: prose
 ---
 
 „Poslouchejte,“ děl na to pan Menšík, „to oni toho vraha jistě chytli, ti poldové v Liverpoolu; to byl řemeslný zločin, a na takový se obyčejně přijde. V takovém pádě seberou všechny notorické lumpy, co zrovna běhají na svobodě, a teď, chlape, pověz, jaké máš alibi. A když nemá alibi, tak je to on. Ona policie nerada pracuje s neznámými činiteli nebo veličinami; abych tak řekl, hledí je uvést na známé čili notorické veličiny. Jak jednou někoho dostanou do rukou, tak si ho změří a vezmou mu daktýlky, a pak už je to jejich člověk; od té doby se k němu s důvěrou obracejí, jakmile se něco šustne; jdou k němu ze staré známosti, jako člověk chodí k svému holiči nebo do své trafiky. Horší je, když se nějakého toho zločinu dopustí neodborník nebo nováček, řekněme vy nebo já; to už má policie těžší dostat se mu na kobylku.

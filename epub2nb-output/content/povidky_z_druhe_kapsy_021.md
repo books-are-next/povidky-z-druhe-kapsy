@@ -1,5 +1,6 @@
 ---
 title: O lyrickém zloději
+contentType: prose
 ---
 
 „Ono to někdy vypadá jinak,“ ozval se po náležitém mlčení pan Zach, redaktor. „Kolikrát člověk opravdu neví, je-li to špatné svědomí, nebo spíš taková chlubivost a okázalost; hlavně tihle zločinci z povolání by snad praskli, kdyby se nemohli sem tam holedbat tím, co provedli. Já myslím, že by mnoho zločinců vymřelo, kdyby je společnost ignorovala; takového odborného pachatele zrovna hřeje ta výjimečná veřejná pozornost, které se těší. Já neříkám, že lidé kradou a loupí jen pro tu slávu; dělají to pro peníze nebo z lehkomyslnosti nebo vlivem špatných přátel, ale jak jednou čuchnou k té aura popularis, probudí se v nich takové jakési velikášství – to máte stejné jako u těch politikářů a vůbec veřejně činných osob.

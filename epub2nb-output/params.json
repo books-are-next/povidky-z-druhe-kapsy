@@ -45,7 +45,7 @@
         "filename": "povidky_z_druhe_kapsy_002.md",
         "xhtml": "povidky_z_druhe_kapsy_002.html",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -412,7 +412,7 @@
       "identifier": "f10f3d4a-0c24-4e60-964f-2464466a2a48",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T07:54:12.347Z"
+      "modified": "2017-10-20T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -452,7 +452,7 @@
         "xhtml": "povidky_z_druhe_kapsy_006.html"
       },
       {
-        "titleSuggest": "Povídka starého\nkriminálníka",
+        "titleSuggest": "Povídka starého kriminálníka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_007.md",
         "xhtml": "povidky_z_druhe_kapsy_007.html"
@@ -506,7 +506,7 @@
         "xhtml": "povidky_z_druhe_kapsy_015.html"
       },
       {
-        "titleSuggest": "Příběhy sňatkového\npodvodníka",
+        "titleSuggest": "Příběhy sňatkového podvodníka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_016.md",
         "xhtml": "povidky_z_druhe_kapsy_016.html"
@@ -596,13 +596,13 @@
         "xhtml": "povidky_z_druhe_kapsy_030.html"
       },
       {
-        "titleSuggest": "Život a doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_031.md",
         "xhtml": "povidky_z_druhe_kapsy_031.html"
       },
       {
-        "titleSuggest": "První\nvydání knih Karla Čapka",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "povidky_z_druhe_kapsy_032.md",
         "xhtml": "povidky_z_druhe_kapsy_032.html"
@@ -710,6 +710,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-druhe-kapsy"
     },
-    "generatedAt": 1638431652847
+    "generatedAt": 1652351320399
   }
 }

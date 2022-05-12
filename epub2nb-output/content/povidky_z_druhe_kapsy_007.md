@@ -1,7 +1,6 @@
 ---
-title: |-
-  Povídka starého
-  kriminálníka
+title: Povídka starého kriminálníka
+contentType: prose
 ---
 
 „To nic není,“ řekl pan Jandera, spisovatel. „Honit zloděje, to známe; ale zvláštní je, když zloděj hledá, koho vlastně okradl. Abyste věděli, to se stalo mně. Tak tuhle jsem napsal povídku a dal jsem ji do tisku; a když jsem ji četl vytištěnou, obešlo mě takové nepříjemné tušení. Člověče, řekl jsem si, něco podobného jsem už někdy někde četl. Hrom aby do toho, komupak jsem tuhle látku ukradl? – Tři dny jsem chodil jako vrtohlavá ovce, a ne a ne na to přijít, od koho jsem si tu látku, jak se říká, vypůjčil. Konečně jsem potkal kamaráda a povídám mu: Člověče, tak se mně všechno zdá, že ta má poslední povídka je od někoho kradená. – To jsem přece poznal na první pohled, řekl kamarád, tos ukradl z Čechova. – Tu se mně zrovna ulevilo, a když jsem potom mluvil s jedním kritikem, říkám mu: Pane, to byste nevěřil, někdy člověk udělá plagiát, a ani o tom neví; například má poslední povídka byla kradená. – Já vím, povídá ten kritik, ta je z Maupassanta. – Tak jsem si obešel všechny své dobré přátele; poslouchejte, jak se jednou člověk octne na šikmé dráze zločinu, tak neví, kdy přestat; představte si, tu jedinou povídku jsem ukradl ještě z Gottfrieda Kellera, Dickense, d’Annunzia, Tisíce a jedné noci, Charles Louis Philippa, Hamsuna, Storma, Hardyho, Andrejeva, Bandinelliho, Roseggera, Reymonta a celé řady jiných. Z toho je vidět, jak člověk zapadá do zla hloub a hloub.“

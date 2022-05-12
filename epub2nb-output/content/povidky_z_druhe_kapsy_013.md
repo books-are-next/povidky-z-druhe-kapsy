@@ -1,5 +1,6 @@
 ---
 title: Grófinka
+contentType: prose
 ---
 
 „Tyhle bláznivé ženské,“ pravil pan Polgár, „ty někdy provádějí věci, to by člověk nevěřil. To bylo v roce devatenáct nebo dvacet, zkrátka v těch letech, kdy všude v téhle požehnané střední Evropě hořela koudel; člověk jenom čekal, na které straně se strhne mela. To se vám tehdy u nás hemžilo špionů, ani nemáte ponětí. Já jsem v té době měl v referátě kontraband a falešné peníze, ale vojáci si mě občas zavolali, abych jim sem tam opatřil nějaké ty informace. Tak tehdy se stal ten případ s tou grófinkou… řekněme Mihályovou.

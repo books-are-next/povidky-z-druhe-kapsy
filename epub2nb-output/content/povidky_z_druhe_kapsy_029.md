@@ -1,5 +1,6 @@
 ---
 title: Poslední věci člověka
+contentType: prose
 ---
 
 „Být odsouzen k smrti je hrozná zkušenost,“ děl na to pan Kukla. „Já to znám, protože jsem kdysi prožil poslední chvíle před svou vlastní popravou. To se rozumí, že to bylo ve snu; ale sen patří stejně k životu člověka jako co jiného, třebaže jen tak na okraj. Na tom okraji už nezbývá mnoho z tvé znamenitosti, člověče, nic z toho, čím se naparuješ v životě; ještě tam zbývá pohlaví, strach, samolibost a několik jiných věcí, za které se většinou stydíš; snad to jsou poslední věci člověka.

@@ -1,5 +1,6 @@
 ---
 title: Čintamani a ptáci
+contentType: prose
 ---
 
 „Ehm,“ řekl pan doktor Vitásek, „víte, já se tak trochu v perských kobercích vyznám; ale to vám potvrdím, pane Taussig, že dnes už to není, jak to bývalo. Dnes si ti taškáři v Orientě už nedají tu práci, aby barvili vlnu červcem, indigem, šafránem, velbloudí močí, duběnkami a těmi ostatními ušlechtilými organickými barvivy; ani ta vlna už není, jako bývala, a kdybych měl povídat o vzoru, tak bych se dal do breku. To teda je jedno ztracené umění, tyhle perské koberce. Proto jenom ty staré kusy, co byly dělány před rokem osmnáct set sedmdesát, mají nějakou cenu; ale takové se vám podaří koupit, jenom když nějaká stará famílie ‚z rodinných příčin‘, jak se v lepších rodinách říká dluhům, prodává antikvity po dědečkovi. Poslouchejte, já jsem onehdy na hradě Rožmberku viděl pravý sedmihraďák – to jsou takové malé koberečky, modláky, co vyráběli Turci v sedmnáctém století, když seděli v Sedmihradsku; tam na tom hradě po tom šlapou turisti v okovaných botách, a nikdo neví, jakou to má cenu, – inu, člověk by nad tím zplakal. A jeden z nejvzácnějších koberců na světě je u nás v Praze, a nikdo o něm neví.
