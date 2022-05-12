@@ -46,7 +46,7 @@
         "filename": "povidky_z_druhe_kapsy_002.md",
         "xhtml": "povidky_z_druhe_kapsy_002.html",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -714,4 +714,3 @@
     "generatedAt": 1631775332712
   }
 }
-
