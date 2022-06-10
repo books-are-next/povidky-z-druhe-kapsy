@@ -3,6 +3,8 @@ title: Zmizení pana Hirsche
 contentType: prose
 ---
 
+<section>
+
 „Tohle,“ řekl pan Taussig, „nebyl špatný případ, ale má moc velkou chybu: že se nestal v Praze. Víte, i v kriminálních věcech má mít člověk ohled na domov. Prosím vás, co nám je po nějakém případu v Palermu nebo kterých čertech? Z toho my nic nemáme. Ale když se takhle podaří nějaký takový lepší zločin v Praze, tak to mně, páni, zrovna jaksi lichotí; říkám si, teď se o nás mluví v celém světě; víte, ono to tak nějak hřeje. A pak, to dá rozum, v takovém místě, kde se vyvede slušná kriminální věc, mohou jít i obchody; ono to svědčí o větších poměrech, že jo, a budí to vůbec důvěru. Ale to se musí ten pachatel chytit.
 
 Já nevím, jestli se pamatujete na ten případ v Dlouhé třídě se starým Hirschem; on tam měl obchod s kůžemi, ale sem tam taky prodával perské koberce a takové ty orientální věci; víte, on měl po mnoho let nějaký kšeft v Cařihradě – však si odtamtud přinesl něco na játrech; proto byl vychrtlý jako chcíplá kočka a hnědý, jako by ho vytáhl z třísla. A tihle tepicháři z Arménie nebo ze Smyrny za ním chodili, protože se s nimi dovedl tak po zlodějsku domluvit. Oni to jsou velcí gauneři, tihle Arméni; na ty si musí dát pozor i žid. Teda ten Hirsch měl v přízemí ty kůže a odtamtud se šlo po takových točitých schůdkách do jeho kontoru[\[2\]](./resources/undefined); za kontorem byl jeho byt a tam seděla paní Hirschová; ona totiž byla tak tlustá, že nemohla vůbec chodit.
@@ -34,3 +36,5 @@ No jo, povídá doktor Mejzlík, hovořil do prázdného kontoru. A když předt
 Tak zatímco pan Mejzlík dělal tohle, našli už tajní stopu po tom Arménovi. Ona totiž na tom kufru byla nálepka jednoho berlínského hotelu – z toho bylo taky vidět, že ten Armén platil pořádně své diškerece; víte, tihle portýři z hotelů si těmi nálepkami dávají po celém světě znamení, co z toho kunčofta kouká na tuzérech. A protože ten Armén dobře platil, tak si ho ten berlínský portýr taky dobře pamatoval: jmenoval se Mazanian a jel nejspíš přes Prahu do Vídně; ale čapli ho až v Bukurešti; tam se taky ve vyšetřovací vazbě oběsil. Proč toho pana Hirsche zavraždil, to žádný neví; nejspíš měli spolu nějaký obchodní spor z té doby, kdy pan Hirsch byl v Cařihradě.
 
 Ale z tohohle příběhu je vidět,“ končil pan Taussig zamyšleně, „že hlavní věc v obchodu je solidnost. Kdyby ten Armén vedl pořádné koberce, co nejsou barvené tím laciným anilínem, nebyli by na to tak hned přišli, jak toho pana Hirsche odklidil, že jo. Ale prodávat póvl, to se jednomu vymstí.“
+
+</section>

@@ -3,6 +3,8 @@ title: Závrať
 contentType: prose
 ---
 
+<section>
+
 „Svědomí,“ pravil pan Lacina, „tomu se už tak neříká; teď se to jmenuje potlačené představy, ale to máte prašť jak uhoď. Já nevím, zná-li někdo z vás případ s tím fabrikantem Gierkem. To byl moc bohatý a takový nóbl člověk, veliký a silný jako sloup; říkalo se, že je vdovec, ale jinak o něm nikdo nic nevěděl, taková to byla uzavřená povaha. Tedy když už mu bylo hodně přes čtyřicet, zamiloval se do takové hezoučké malé panenky, sedmnáct let jí bylo a byla tak krásná, že se až člověku dech tajil; tahle skutečná krása, to ti tak nějak sevře srdce takovou lítostí nebo něhou nebo čím. A to děvčátko si Gierke vzal, protože to byl velký a bohatý Gierke.
 
 Na svatební cestu jeli do Itálie, a tam se stalo tohle: V Benátkách vylezli na tu slavnou kampanilu; a když se ten Gierke podíval dolů – prý je to moc krásný pohled –, zbledl, obrátil se k své mladé paní a svalil se jako podťatý. Od té doby se jaksi ještě víc uzavřel do sebe; strašně se přemáhal, aby to vypadalo, že mu jako nic není, ale měl takové neklidné a zoufalé oči. To víte, jeho panička se hrozně polekala a odvezla si ho domů; oni měli krásný dům do městských sadů, a tam propuklo Gierkovo podivínství: pořád chodil od okna k oknu přesvědčit se, je-li dobře uzavřeno; a sotva si sedl, zas vyskočil a šel k nějakému oknu, aby je zavřel. I v noci vstával a strašil po celém domě – na všecky otázky jenom brumlal, že má zatracenou závrať a že chce zavřít okna, aby z nich nevypadl. Tu teda jeho paní dala zamřížovat všechna okna, aby ho zbavila té ustavičné úzkosti. Několik dní to pomáhalo, Gierke se drobet uklidnil, ale pak zase pobíhal od okna k oknu a lomcoval těmi mřížemi, aby se přesvědčil, že pevně drží. Pak dali udělat ocelové okenice a žili za nimi jako zabedněni. Gierke se tím jaksi utišil; ale zas se ukázalo, že dostává závrať, když má jít po schodišti; museli ho na schodech vodit a podpírat jako chromého, a přitom se třásl jako list, celý zalit potem; ba někdy si musel uprostřed schodů sednout a škytavě vzlykal – tak strašně se bál.
@@ -56,3 +58,5 @@ Tak sláva, křikl docent Spitz nadšeně; tedy se cítíte zdráv, že?
 Naprosto zdráv, řekl Gierke tiše a díval se dolů za doktorem. A když za docentem Spitzem zabouchla domovní vrata, bylo slyšet ještě jedno těžké žuchnutí. Za chvíli našli dole pod schodištěm tělo Gierkovo. Byl mrtev, několikrát přelámán, jak narážel při pádu na zábradlí schodiště.
 
 Když to ohlásili doktoru Spitzovi, hvízdl a díval se moc divně před sebe. Potom vzal knihu, do které si zapisoval své pacienty, a ke Gierkovu jménu připsal jen datum a jedno slovo: Suicidium. Abyste věděl, pane Taussig, to znamená sebevražda.“
+
+</section>

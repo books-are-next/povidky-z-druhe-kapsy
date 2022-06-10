@@ -3,6 +3,8 @@ title: Poslední věci člověka
 contentType: prose
 ---
 
+<section>
+
 „Být odsouzen k smrti je hrozná zkušenost,“ děl na to pan Kukla. „Já to znám, protože jsem kdysi prožil poslední chvíle před svou vlastní popravou. To se rozumí, že to bylo ve snu; ale sen patří stejně k životu člověka jako co jiného, třebaže jen tak na okraj. Na tom okraji už nezbývá mnoho z tvé znamenitosti, člověče, nic z toho, čím se naparuješ v životě; ještě tam zbývá pohlaví, strach, samolibost a několik jiných věcí, za které se většinou stydíš; snad to jsou poslední věci člověka.
 
 Jednou odpoledne jsem se vrátil domů, uštvaný jako zvíře, tolik práce jsem měl za sebou; tak jsem si lehl na zem a usnul jsem jako kus dřeva. Z ničeho nic se mi zdálo, že se otevřely dveře a v nich stojí naprosto neznámý pán a za ním dva vojáci s nasazenými bajonety; já nevím proč, ale ti vojáci měli kozácké uniformy. Vstaňte, řekl neznámý hrubě, připravte se, zítra ráno bude na vás vykonán rozsudek smrti. Rozuměl jste?
@@ -48,3 +50,5 @@ Pan Skřivánek si mnul v rozpacích čelo. „Já nevím, jak bych vám to vyl�
 „A nesete ji?“ zeptal se páter Voves se zájmem.
 
 Pan Skřivánek se prudce zarděl. „Ale ne,“ řekl honem, „o tom přec člověk neví. Ale od té doby… je ve mně taková úcta; všechno mně připadá důležitější… každá maličkost i každý člověk, víte? Všechno má ohromnou cenu. Když se dívám na západ slunce, říkám si, že to stojí za tu nesmírnou bolest. Anebo lidi, jejich práce, jejich obyčejný život… všechno má cenu bolesti. A já vím, že to je strašná a nevýslovná cena – A já věřím, že není žádné zlo ani žádný trest; je jenom bolest, která slouží tomu, aby… aby život měl tu velikou cenu –“ Pan Skřivánek se zarazil, nevěda jak dál. „Vy jste ke mně tak hodní,“ vyhrkl a dojatě se vysmrkal, aby si zakryl planoucí tvář.
+
+</section>

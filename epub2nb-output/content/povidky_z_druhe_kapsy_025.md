@@ -3,6 +3,8 @@ title: Muž, který nemohl spát
 contentType: prose
 ---
 
+<section>
+
 „Když už tady pan Doležal začal o tom dešifrování,“ děl na to pan Kavka, „tak jsem si vzpomněl na věc, kterou jsem jednou provedl kolegovi Musilovi. On ten Musil je neobyčejně vzdělaný a subtilní člověk, ale takový typ intelektuála: ve všem vidí problém a hledá k němu své stanovisko. Například on má stanovisko i k své vlastní ženě a nežije v manželství, nýbrž v problému manželství; krom toho uznává sociální problém, pohlavní otázku, problém podvědomí, problém výchovy, krizi dnešní kultury a celou řadu jiných problémů. Tihle lidé, co všude nalézají problémy, jsou stejně nesnesitelní jako ti, co mají zásady. Já nemám rád problémy; pro mne vejce je vejce, a kdyby mně někdo začal mluvit o problému vejce, tak se leknu, že to vejce je zkažené. To jen abyste věděli, jaký ten Musil je.
 
 Jednou před Vánocemi si zamanul, že pojede na Krkonoše lyžovat; a protože si ještě musel koupit to a ono, ohlásil, že se staví rozloučit se s kolegy později. Najednou ho přijde hledat doktor Mandel, víte, ten známý publicista, taky takový zvláštní pavouk, a že musí nutně mluvit s panem Musilem. Musil tu není, povídám, ale snad si sem ještě zaskočí před odjezdem; počkejte na něj. – Doktor Mandel se zasmušil. Čekat nemohu, řekl, ale napíšu mu na lístek, co jsem s ním chtěl vyřídit. – Nato sedl ke stolu a psal.
@@ -44,3 +46,5 @@ Páni kamarádi, vy mne tak trochu znáte; vy víte, že nejsem kakabus ani hypo
 A tak se mi zdá, že spánek je jako temná a hluboká voda. V ní odplývá všechno, o čem nevíme a nemáme vědět. Ten divný rmut, který se v nás usazuje, se vyplaví a odtéká v tom bezvědomí, které nemá břehů. Naše špatnosti a zbabělosti, všechny ty naše všední a trapné hříchy, naše ponižující voloviny a nezdary, ta vteřina lži a nelásky v očích těch, které milujeme, to, čím jsme se provinili my, i to, čím se jiní provinili na nás, to všechno tichounce odplývá někam za dosah vědomí. Spánek je nesmírně milosrdný; odpouští nám i našim viníkům.
 
 A já vám něco povím: To, čemu říkáme náš život, to není všecko, co jsme prožili; to je jen výběr. Toho, co prožíváme, je příliš mnoho, víc, než nač stačí náš rozum. Proto si jen vybíráme to a ono, co se nám hodí, a jaksi z toho upleteme takový zjednodušený děj; a tomu výrobku říkáme náš život. Ale co odpadků přitom necháváme, co divných a strašných věcí pomíjíme, kristepane, kdyby to si člověk uvědomil! Ale my můžeme žít jen jeden jednoduchý život. Bylo by nad naši sílu prožít víc. Neměli bychom sílu nést život, kdybychom nepoztráceli cestou většinu života.“
+
+</section>

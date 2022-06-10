@@ -3,6 +3,8 @@ title: Obyčejná vražda
 contentType: prose
 ---
 
+<section>
+
 „Často jsem přemýšlel,“ řekl na to pan Hanák, „proč se nám zdá být křivda něčím horším, než já nevím co zlého, co může člověka potkat. Tak příkladně kdybychom viděli, že jediný člověk byl nevinně odsouzen do vězení, znepokojí a trápí nás to víc, než když tisíce lidí žije v bídě a bolesti. Já viděl takovou bídu, že každý kriminál je proti ní zrovna blahobyt; a přece nás ta nejhorší bída tak neurazí jako křivda. Já bych řekl, že v nás je nějaký justiční instinkt; a že vina a nevina, právo a spravedlnost jsou stejně prvotní, strašné a hluboké city jako láska a hlad.
 
 Vemte si tenhle případ: Já byl čtyři léta ve válce jako leckdo z vás; my si nebudeme říkat, co jsme tam viděli, ale to mně dosvědčíte, že si tam našinec zvykl na ledacos: například na mrtvé. Já viděl sta a sta mrtvých mladých lidí, a někdy moc šeredně mrtvých, to mně můžete věřit; a já se vám přiznám, že už mně to bylo tak jedno, jako by to byly staré hadry, jen když nesmrděli. Jenom jsem si říkal, člověče, vyjdeš-li z té hovadské mely živý a celý, tak už tě nic v životě nerozhází.
@@ -30,3 +32,5 @@ A já jsem pochoval maminku; vypadala tak slavně, tak smířeně a slušně v t
 „A co,“ ozval se pan Dobeš, „chytli toho, co tu babu zabil?“
 
 „Chytli,“ pokračoval pan Hanák. „A já ho sám viděl, když ho dva dny nato četníci vedli z toho krámku, kde ho, jak se říká, vyslýchali na místě činu. Viděl jsem ho snad jenom pět vteřin, ale bylo to zase jako pod nějakou nestvůrně zvětšující lupou. Byl to mladý chasník, na rukou měl řetízky a tak divně pospíchal, že mu četníci stěží stačili. Nos se mu potil, a ty vypoulené oči tak poplašeně mžikaly – Bylo vidět, že má děsný strach, tak jako králík při vivisekci. Jakživ na ten obličej nezapomenu. Mně bylo po tom setkání moc trapně a nanic. Teď ho budou soudit, myslel jsem, budou se s ním pár měsíců tahat, aby ho odsoudili na smrt. Nakonec jsem viděl, že mně ho je vlastně líto a že by se mi skoro ulevilo, kdyby z toho nějak vyvázl. Ne že by měl sympatický obličej, spíš naopak; ale viděl jsem ho příliš zblízka – viděl jsem ho úzkostí mžikat. U čerchmanta, já nejsem žádná citlivka, ale tak zblízka, to nebyl vrah, to byl prostě člověk. Abych vám řekl, já tomu sám nerozumím; nevím, co bych udělal, kdybych byl jeho soudcem; ale bylo mně z toho všeho tak smutno, jako bych sám potřeboval vykoupení.“
+
+</section>

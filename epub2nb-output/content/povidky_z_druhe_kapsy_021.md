@@ -3,6 +3,8 @@ title: O lyrickém zloději
 contentType: prose
 ---
 
+<section>
+
 „Ono to někdy vypadá jinak,“ ozval se po náležitém mlčení pan Zach, redaktor. „Kolikrát člověk opravdu neví, je-li to špatné svědomí, nebo spíš taková chlubivost a okázalost; hlavně tihle zločinci z povolání by snad praskli, kdyby se nemohli sem tam holedbat tím, co provedli. Já myslím, že by mnoho zločinců vymřelo, kdyby je společnost ignorovala; takového odborného pachatele zrovna hřeje ta výjimečná veřejná pozornost, které se těší. Já neříkám, že lidé kradou a loupí jen pro tu slávu; dělají to pro peníze nebo z lehkomyslnosti nebo vlivem špatných přátel, ale jak jednou čuchnou k té aura popularis, probudí se v nich takové jakési velikášství – to máte stejné jako u těch politikářů a vůbec veřejně činných osob.
 
 Počkejte, tomu už je řada let, co jsem redigoval náš výborný krajinský týdeník Posla východu. Já jsem se sice narodil na západě, ale to byste nevěřili, s jakým zápalem jsem bojoval za regionální zájmy východních Čech. Ona to je taková mírná pahorkatina, jako by ji vymaloval, se švestkovými alejemi a tichými potůčky; ale já jsem týdně burcoval ‚náš drsný horácký lid, tvrdě zápasící o skývu chleba s nehostinnou přírodou a nepřízní vlády‘, – páni, to se vám tak krásně a od srdce psalo; jenom dvě léta jsem tam působil, ale za ta dvě léta jsem vštípil tamnímu lidu přesvědčení, že jsou drsní horalové, že jejich život je hrdinný a krušný, že jejich kraj je chudobný sice, ale melancholicky krásný a hornatý, – já myslím, víc novinář nemůže udělat než vykouzlit na Čáslavsku jakýsi druh Norska. Z toho je tak vidět, jakých velikých úkolů jsou noviny schopny.
@@ -120,3 +122,5 @@ A jste spokojen? ptám se ho.
 Jináč bych byl, bručel rozpačitě. Ale není tu vo čem psát.
 
 Od té doby jsem se s ním nesešel. Ani v rubrice Ze soudní síně, ani v poezii.“
+
+</section>

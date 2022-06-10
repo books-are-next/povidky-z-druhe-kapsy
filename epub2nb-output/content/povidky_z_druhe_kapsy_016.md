@@ -3,6 +3,8 @@ title: Příběhy sňatkového podvodníka
 contentType: prose
 ---
 
+<section>
+
 „To teda je pravda,“ pravil detektiv Holub a skromně odkašlal. „My na policii nemáme rádi nějaké extra a nebývalé případy; my taky nemáme rádi nové lidi. Takový starý, osvědčený zločinec, to je docela jiná práce; předně hnedle víme, že to udělal, protože to je jeho obor; za druhé víme, kde ho najít, a za třetí nám nedělá žádné cavyky a nezapírá, protože už ví, že mu to není nic platno. Páni, s takovým zkušeným člověkem pracovat je jedna radost. A já vám řeknu, že i v kriminále se tihle řemeslní zločinci těší zvláštní oblibě a důvěře; oni ti nováčkové a nahodilí provinilci jsou největší kverulanti a renitenti[\[9\]](./resources/undefined) a nic jim není recht; ale takový starý kriminálník ví, že arest je riziko práce, a tak to zbytečně nezhořčuje sobě ani těm druhým. Ale to už sem vlastně nepatří.
 
 Jednou, tomu je pět let, jsme dostávali ze všech stran a koutů hlášení, že na českém venkově řádí neznámý sňatkový podvodník. Podle popisu to byl letitý pán, takový tlustší, holohlavý, s pěti zlatými zuby tady v hubě; dával si jméno Müller, Procházka, Šimek, Šebek, Šinderka, Bílek, Hromádka, Pivoda, Bergr, Bejček, Stočes a ještě všelijak jinak. Krucinál, ten popis se nám na žádného našeho sňatkového podvodníka nepasoval, to musí být někdo nový. Tak si mě zavolal náš pan rada a povídá: Holube, vy děláte tuhle vlakovou službu – když už někam jedete, dávejte pozor, nepotkáte-li nějakého chlapíka s pěti zlatými zuby. – No dobře, já jsem se začal dívat lidem ve vlaku na zuby a do čtrnácti dnů jsem načapal tři pány s pěti zlatými zuby; museli se mně legitimovat, ale ježíšmarjá, jeden z nich byl školní inspektor a jeden dokonce poslanec, a to se neptejte, páni, jak jsem za to dostal vynadáno od nich i u nás. Teda to mě dožralo, a teď teprv jsem si vzal do hlavy, že toho kujóna musím dostat. On to sic nebyl můj případ, ale já jsem si umanul, že se mu pomstím.
@@ -88,3 +90,5 @@ Moment, pane Holub, řekl Plichta. Já jsem měl s tím posledním případem ve
 A když už jsme byli na chodbě policejního ředitelství, vzpomněl si ten Plichta najednou: Pane Holub, vždyť já jsem té slečně daroval ještě lahvičku voňavky; tak to mám ještě dvacet korun k dobru.
 
 Pak se pečlivě vysmrkal a nechal se s klidnou myslí odvést.“
+
+</section>

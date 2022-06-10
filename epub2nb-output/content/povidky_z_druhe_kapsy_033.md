@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Glochidy/glochidie (řec.) – ostnaté chlupy kaktusovitých rostlin. _Pozn. red._
 
 [\[2\]](./resources/undefined) Kontor/kontoár (franc.) – kancelář (účtárna, písárna). _Pozn. red._
@@ -48,3 +50,5 @@ contentType: prose
 [\[22\]](./resources/undefined) Šmízo – nekvalitní zboží, aušus. _Pozn. red._
 
 [\[23\]](./resources/undefined) Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._
+
+</section>

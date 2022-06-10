@@ -3,6 +3,8 @@ title: Grófinka
 contentType: prose
 ---
 
+<section>
+
 „Tyhle bláznivé ženské,“ pravil pan Polgár, „ty někdy provádějí věci, to by člověk nevěřil. To bylo v roce devatenáct nebo dvacet, zkrátka v těch letech, kdy všude v téhle požehnané střední Evropě hořela koudel; člověk jenom čekal, na které straně se strhne mela. To se vám tehdy u nás hemžilo špionů, ani nemáte ponětí. Já jsem v té době měl v referátě kontraband a falešné peníze, ale vojáci si mě občas zavolali, abych jim sem tam opatřil nějaké ty informace. Tak tehdy se stal ten případ s tou grófinkou… řekněme Mihályovou.
 
 Já už nevím jak a kterak, ale tehdy dostali vojáci anonymní dopis, aby si dali pozor na korespondenci, která se posílá na adresu W. Manasses, poste restante Curych. Pak zachytili jeden takový dopis; namouduši, byl šifrovaný podle kódu číslo 11 a byla v něm vojenská sdělení toho druhu, že pěší pluk číslo 28 je posádkou v Praze, že v Milovicích je střelnice a že naše armáda je ozbrojena nejen puškami, nýbrž i bodáky; zkrátka takové volovinky. Ale to víte, tihle vojáci jsou na to strašně přísní; kdybyste vyzradili nějaké cizí mocnosti, že naše pěchota nosí onuce z kalika[\[7\]](./resources/undefined) od firmy Oberländer, tak za to budete stát před divizním soudem a dostanete aspoň rok pro zločin vyzvědačství. Ale to už patří k té vojanské prestiži.
@@ -52,3 +54,5 @@ Kdepak, řekl jsem, my jsme se jenom dívali, jestli si tím skokem neublížil,
 To musila být pořádná domluva, řekl ten advokát se zdvořilým úsměvem. Podle vysvědčení policejního lékaře měl můj klient následkem té domluvy tři žebra zlomená a asi sedm set čtverečních centimetrů krevních podlitin hlavně na zádech.
 
 Já jsem krčil rameny. To on si tu domluvu tak vzal k srdci, řekl jsem, a bylo dobře. Víte, ono je ledacos pravda; ale musí se na ni nalézt to pravé slovo.“
+
+</section>
