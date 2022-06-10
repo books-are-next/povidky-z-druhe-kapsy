@@ -3,6 +3,8 @@ title: Smrt barona Gandary
 contentType: prose
 ---
 
+<section>
+
 „Poslouchejte,“ děl na to pan Menšík, „to oni toho vraha jistě chytli, ti poldové v Liverpoolu; to byl řemeslný zločin, a na takový se obyčejně přijde. V takovém pádě seberou všechny notorické lumpy, co zrovna běhají na svobodě, a teď, chlape, pověz, jaké máš alibi. A když nemá alibi, tak je to on. Ona policie nerada pracuje s neznámými činiteli nebo veličinami; abych tak řekl, hledí je uvést na známé čili notorické veličiny. Jak jednou někoho dostanou do rukou, tak si ho změří a vezmou mu daktýlky, a pak už je to jejich člověk; od té doby se k němu s důvěrou obracejí, jakmile se něco šustne; jdou k němu ze staré známosti, jako člověk chodí k svému holiči nebo do své trafiky. Horší je, když se nějakého toho zločinu dopustí neodborník nebo nováček, řekněme vy nebo já; to už má policie těžší dostat se mu na kobylku.
 
 Já mám na policejní direkci jednoho příbuzného, jmenuje se rada Pitr a je to strýc mé ženy. Tak ten pan Pitr říká, když je to loupež, tak to udělal nějaký odborník; a když je to vražda, tak to bude nejspíš někdo z rodiny. On má takové ustálené názory, ten pan Pitr; tak třeba on tvrdí, že člověk málokdy zavraždí cizího člověka, protože to není tak snadné; to už mezi známými se najde spíš příležitost, a v domácnosti je to rovnou na dlani. Když mu dají nějakou tu vraždu, tak on se hledí doptat, kdo to mohl udělat s nejmenšími obtížemi, a za tím jde. Víš, Menšíku, říká, já ti nemám ždibec fantazie nebo důvtipu; to ti každý u nás potvrdí, že jsem největší trouba na direkci. Víš, já jsem stejně primitivní jako ten vrah; a co mě napadne, je stejně všední, obyčejné a pitomé jako jeho pohnutky, plán a čin; a já ti řeknu, že právě tím na to většinou přijdu.
@@ -52,3 +54,5 @@ Tak je dobře, řekl strýc Pitr. Běžte se podívat za tím domovníkovým syn
 Za dvě hodiny měl strýc Pitr v rukou Gandarovu tobolku, kterou našli v posteli toho mládence; v noci kluka chytli na flámu a ráno se přiznal, že Gandaru zastřelil, aby mu uloupil ten portfej; bylo v něm přes padesát tisíc korun.
 
 Tak vidíš, Menšíku, řekl mně pak strýc Pitr, to je zrovna takový případ jako s tou starou bábou z Křemencové ulice; tu také zabil domovníkův synovec. Ale safra, hochu, když si pomyslím, že by ten případ dostal Mejzlík, co ten by z té látky udělal! Ale já na to nemám tu fantazii, to je to.“
+
+</section>

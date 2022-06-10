@@ -3,6 +3,8 @@ title: Balada o Juraji Čupovi
 contentType: prose
 ---
 
+<section>
+
 „To se, páni, opravdu stává,“ pravil na to četnický kapitán Havelka, „totiž to, že se u zločinců někdy vyskytne taková zvláštní svědomitost a řádnost. O tom bych vám mohl povídat všelijaké případy, ale nejdivnější je ten s Jurajem Čupem. To se mně stalo, když jsem byl u žandarmů na Podkarpatsku v Jasině.
 
 Jednou v lednové noci jsme u žida mazali deku; to byl okresní náčelník, nějaký inspektor od dráhy a taková ta exponovaná honorace; a to se rozumí, cikáni. Poslouchejte, tihle cikáni, já nevím, co to je za pronárod; ale já myslím, že to je pokolení Chámovo. Když tak člověku hrají do ouška, pořád blíž a pořád tišeji, krysy mizerné, když mu tak čarují do ucha, tu… tu… tu vám zrovna vytahují duši z těla; já vám říkám, ta jejich hudba, to je nějaká strašná a tajemná neřest. A když se tak přisáli ke mně, já brečel, já řval jako jelen, bajonetem stůl jsem probodal, skleničky rozbíjel, zpíval a hlavou do zdi bil, chtěl někoho zabít nebo někoho milovat – páni, takové věci vyvádí člověk, když mu cikáni učarovali. A když jsem byl v nejlepším, přišel žid šenkýř a povídá, že na mě venku před hospodou čeká nějaký Rusňáček.
@@ -74,3 +76,5 @@ Zatlačte jí oči, přikázal starosta. Juraji, teď půjdeš do Jasiny a posta
 Poslyšte, já nevím, bylo-li to z těch ovčích kožichů nebo z únavy nebo proto, že v tom, co jsem viděl a slyšel, byla taková divná krása nebo důstojnost: ale musel jsem jít ven, do mrazu, protože se mně točila hlava; namouduši, ve mně něco stoupalo, jako bych měl povstat a říci: Boží lidé, boží lidé! My budeme soudit Juraje Čupa po světském řádu; ale ve vás je zákon boží. – A byl bych se jim poklonil po pás; ale to se na četníka nesluší, a proto jsem šel ven a tak dlouho jsem sám pro sebe sakroval, až jsem zase našel svou četnickou duši.
 
 Víte, tohle četnictví je hrubé řemeslo. Ráno jsem vyšťáral v chalupě Juraje Čupa dolarové bankovky, které nebožka Maryna dostávala od svého muže z Ameriky. To se rozumí, musel jsem to hlásit, a tihle právníci z toho udělali loupežnou vraždu. Juraj Čup dostal provaz; ale nikdo mně nenamluví, že tu cestu ušel lidskou silou. Já vím dobře, co je lidská síla. A myslím, že i tak drobet vím, co je boží soud.“
+
+</section>

@@ -3,6 +3,8 @@ title: Telegram
 contentType: prose
 ---
 
+<section>
+
 „Ono se řekne maličkosti,“ usoudil pan Doležal. „Já jsem pozoroval, že lidé se obyčejně chovají přirozeně a upřímně, jen pokud jde o ty maličké a všední věci; ale jakmile se octnou ve výjimečné a patetické situaci, tu vám jako by do nich vjel nějaký nový člověk; začnou mluvit jiným, abych tak řekl, dramatickým hlasem a užívají jiných slov, jiných argumentů, ba i jiných citů než normálně; především propuká v nich statečnost, prestiž, obětavost a jiné takové hrdinné a charakterní vlastnosti. Ono to je, jako by se nadýchali nějakého ozónu, takže musejí dělat veliká gesta; nebo v tom je jakési tajné uspokojení, že se octli v mimořádné a katastrofální situaci, a jaksi se tím vypínají a kochají; zkrátka, začnou se chovat jako hrdinové na jevišti. Když pak se ta dramatická situace přežene, vrátí se i oni do svých normálních rozměrů; ale to potom cítí drobet trapně jako zklamání a vystřízlivění.
 
 Já mám jednoho bratrance, Kalous se jmenuje, takový řádný a důstojný ouřada, občan a otec rodiny, trochu bačkora a trochu pedant, jak už my zralí mužští býváme. Paní Kalousová je hodná a domácká panička, vzorná rodinná kvočna, pokorná manželka, takzvaný domácí ošlapek a tak dále. Potom dcera, hezká holka jménem Věra, která zrovna tehdy byla ve Francii, aby se naučila francouzsky a složila zkoušky pro ten případ, kdyby se nevdala. Konečně syn, klacek a gymnazista, řečený Tonda, dobrý forvard v kopané, ale tuze slabý v učení. Zkrátka typická a normální dobrá rodina takzvané lepší střední třídy.
@@ -122,3 +124,5 @@ Ale pošlu, bručel Kalous podrážděně. Husa pitomá, musí ztratit taštičk
 Já šetřím jako blázen, dodávala paní Kalousová trpce, a ona, frajlinka, si nedá pozor! Je to s těmi dětmi –
 
 A ty tu neokouněj a jdi se učit, kluku líná, utrhl se Kalous na Tondu a loudal se na poštu. Jakživ prý nebyl tak dožrán jako tehdy. A toho Horváta považoval od té doby za člověka jaksi nedelikátního, cynického a téměř neslušného, jako by ho nějak urazil.“
+
+</section>

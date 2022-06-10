@@ -3,6 +3,8 @@ title: Případ s dítětem
 contentType: prose
 ---
 
+<section>
+
 „Když už tu je řeč o tom komisaři Bartoškovi,“ pravil pan Kratochvíl, „tak si vzpomínám na jeden případ, který taky nevyšel na veřejnost; to je ten případ s tím dítětem. Tak jednou přiběhla na komisařství k tomu Bartoškovi taková mladá paní, žena jednoho rady od státních statků, nějakého pana Landy, s ukrutným pláčem, že nemohla ani dechu popadnout. Tomu Bartoškovi jí bylo líto, třebaže měla zpuchlý nos a byla celá flekatá od toho usedavého pláče, a chlácholil ji, pokud to takový starý mládenec a k tomu ještě policajt dovede. Ale ježíšmarjá, mladá paní, říkal jí, tak už toho nechte, vždyť on vám hlavu neutrhne, vyspí se z toho a bude zas dobře; a dělá-li moc velký randál, tak s vámi půjde tamhle Hochman a dá mu nějakou po hubě; ale vy, paničko, nemáte svému muži zavdávat podnět k žárlivosti; no, a je to. – Totiž, abyste věděli, tímhle způsobem na policii srovnávají většinu těchhle rodinných tragédií.
 
 Ale ta paní jen potřásla hlavou a plakala tak, že bylo hrozno se podívat.
@@ -150,3 +152,5 @@ Pane komisaři, řekla paní Landová slavnostně, pochovejte to dítě a požeh
 Musí to být? bručel pan Bartošek. Jak se to bere? Aha. Ale koukejte, ono to začíná brečet! Nate, vemte si to honem!
 
 A to už je konec toho případu s dítětem.“
+
+</section>

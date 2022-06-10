@@ -3,6 +3,8 @@ title: Sbírka známek
 contentType: prose
 ---
 
+<section>
+
 „To teda je svatá pravda,“ řekl starý pan Karas. „Kdyby se člověk hrabal ve své minulosti, našel by, že v ní je dost látky na docela jiné životy. Jednou… buď omylem, nebo z náklonnosti… si vybral jenom jeden z nich a dožívá jej až do konce; ale nejhorší je, že ty druhé, ty možné životy nejsou tak docela mrtvé. A někdy se stane, že v nich pocítíš bolest jako v uříznuté noze.
 
 Když jsem byl asi desetiletý kluk, začal jsem si dělat sbírku známek; tatínek to nerad viděl, myslel si, že se budu pro to špatně učit, ale já měl kamaráda, Lojzíka Čepelku, a s tím jsem holdoval té filatelistické vášni. Ten Lojzík byl syn flašinetáře, takový střapatý a pihovatý kluk, rozdrbaný jako brabec, a já ho miloval, jak dovedou jen děti milovat kamaráda. Poslouchejte, já jsem starý člověk; měl jsem ženu a děti, ale já vám řeknu, že žádný lidský cit není tak krásný jako přátelství. Ale toho je člověk schopen, jen dokud je mladý; pak tak nějak okorá a zesobečtí. Takové přátelství, to prýští čistočistě z nadšení a obdivu, z přebytku života, z hojnosti a přemíry citu; máš ho tolik, že jej musíš někomu darovat. Můj tatík byl notář, hlava místní honorace, strašně důstojný a přísný pán; a já pojal do svého srdce Lojzíka, co jeho otec byl ožralý flašinetář a matka zedřená pradlena, a já toho Lojzu ctil a zbožňoval, protože byl šikovnější než já, že byl takový samostatný a udatný jako krysa a že měl na nose pihy a že házel kameny levičkou, – já už ani nevím, co všechno jsem na něm tak miloval; ale jistě to byla největší láska mého života.
@@ -32,3 +34,5 @@ Já viděl znovu celý svůj život; najednou se mi zdál pustý a nesmyslný. V
 Páter Voves, naslouchaje této řeči, se velmi zasmušil a rozlítostnil; nejspíš si vzpomněl na něco ve svém vlastním životě. „Pane Karas,“ řekl dojatě, „ani na to nemyslete; co je to platno, teď už se to nedá napravit, nedá se začít znova –“
 
 „Nedá,“ vzdychl pan Karas a drobet se zarděl. „Ale víte, aspoň – aspoň tu sbírku jsem začal znovu dělat!“
+
+</section>

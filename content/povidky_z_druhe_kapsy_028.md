@@ -3,6 +3,8 @@ title: Porotce
 contentType: prose
 ---
 
+<section>
+
 „Teda já jsem jednou musel soudit,“ řekl pan Firbas odkašlávaje, „protože jsem byl vylosován za porotce. Tehdy zrovna přišel před porotu ten případ Lujzy Kadaníkové, co zavraždila svého manžela. Nás bylo v porotě osm mužských a čtyři ženské. Tě bůh, řekli jsme si my mužští předem víceméně mlčky, ty čtyři baby budou hledět tu ženskou osvobodit! A tak jsme se už předem proti té Lujze zatvrdili.
 
 On to byl vcelku dost obyčejný případ nešťastného manželství. Ten Kadaník byl civilní geometr a vzal si ženu o dvacet let mladší; Lujza byla děvčátko, když se vdávala, a našel se svědek, který vypověděl, že už den po svatbě mladá paní plakala, bledá jako křída, a otřásala se odporem, když se jí novomanžel chtěl dotknout. Kolikrát si myslím, jaká to někdy musí být hrozná zkušenost, co takové nevinné a nezkušené děvče udělá po svatbě; vemte si, že její muž je třeba zvyklý na holky a chová se podle toho. Inu, to si žádný chlap ani nemůže představit. – Ale státní návladní zase vyšťáral jiné svědectví, že prý ta Lujzička měla už před svatbou techtle mechtle s nějakým študentem a že si s ním dopisovala i po sňatku. Zkrátka už po svatbě se ukázalo, že to manželství neštimuje; paní Lujza dávala najevo fyzický odpor k svému muži; po roce potratila a od té doby měla nějaké ty ženské nemoce. Pan geometr si to hleděl nahradit jinde a doma dělal kravály pro každý krejcar. Onoho nešťastného dne měli zase výstup kvůli krepdešínovým košilím nebo čemu a pan geometr se začal obouvat, že se doma otravovat nebude. V tu chvíli se k němu Lujzička přiblížila odzadu a střelila ho z browningu do týlu. Potom vyběhla na chodbu a bouchala u sousedů na dveře, aby šli k jejímu muži, že ho zabila a že se jde udat; ale na schodech se svalila v křečích. To byl ten celý případ.
@@ -42,3 +44,5 @@ To je strašné, vydechla Lída s naivní krutostí, ale patřilo jí to!
 V tu chvíli to ve mně prasklo, to napětí či co. Ano, rozkřikl jsem se na Lídu s podrážděností, kterou jsem sám nechápal, patřilo jí to, protože udělala hloupost! Pamatuj si, Lído, kdyby ho byla střelila do spánku místo do týlu, mohla tvrdit, že spáchal sebevraždu, rozumíš, Lído? Pak by mohla být osvobozena – Pamatuj si, do spánku!
 
 Práskl jsem za sebou dveřmi; potřeboval jsem být sám. Abyste věděli, ten můj revolver je podnes v té otevřené zásuvce; já jej neodklidil.“
+
+</section>

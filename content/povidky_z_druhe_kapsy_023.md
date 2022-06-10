@@ -3,6 +3,8 @@ title: Jehla
 contentType: prose
 ---
 
+<section>
+
 „Já jsem sic neměl nikdy co dělat se soudy,“ pravil pan Kostelecký, „ale já vám řeknu, mně se na nich zrovna líbí ta náramná akurátnost a ty orace a okolky, co soudy leckdy dělají, třeba by šlo jen o kozí chlup. Ono to budí takovou důvěru ve spravedlnost. Má-li justice v rukou vážky, tak ať jsou hapatykářské, a když už drží meč, tak ať je ostrý jako břitva. To mně připomíná jeden případ, který se stal v naší ulici.
 
 Jedna domovnice, nějaká paní Mašková, si koupila u hokynáře žemličky, a jak tu housku žmoulá, najednou ji něco píchlo do patra; tak si sáhla do huby a vyndá jehlu, která se jí zarazila do ponebí. Teprve za chvíli se lekla, kristepane, dyť já jsem tu jehlu mohla spolknout a ona by mně propíchla žaludek! Tady šlo o život, a to já tak nemůžu nechat! To se musí vyšetřit, který mizera tu jehlu do té žemle nastrojil. – Nu tak tedy šla a donesla tu jehlu a tu nedojedenou housku na policii.
@@ -24,3 +26,5 @@ Ale ta věc měla ještě jednu stránku. Já nevím, v nás mužských je takov
 Zkrátka, když jsem ještě býval u nás v účtárně a dělal tyhle pololetní účetní uzávěrky, stávalo se někdy, že mně ty cifry neštimovaly: tak například jednou nám chyběly v kase zrovna tři halíře. To se rozumí, já bych mohl ty tři halíře do kasy přidat jakoby nic, ale to by nebyla čistá hra; víte, z účetního hlediska by to bylo nešportovní; to se musí nalézt, ve které položce z nějakých čtrnácti tisíc položek je chyba. A já vám řeknu, já už jsem se vždycky před uzávěrkou těšil, že tam bude nějaká taková chyba.
 
 V takovém pádě jsem zůstal v účtárně třeba přes celou noc, narovnal jsem před sebe hromadu účetních knih a teď jsem se do toho pustil. To vám je zvláštní, já jsem ty kolony číslic nevnímal jako numera, ale jako věci. Někdy jsem si představoval, že lezu po těch číslicích nahoru, jako by to byla příkrá skála; nebo že se po nich spouštím jako po žebříku do šachty. Někdy jsem se cítil jako lovec, který se prodírá mlázím číslic, aby dopadl vzácné a plaché zvíře; to byly ty tři halíře. Nebo jsem měl pocit, že jsem detektiv a číhám ve tmě za rohem; tisíce figur mě míjí, ale já čekám, až popadnu za límec toho taškáře, toho pachatele, tu účetní chybičku. Jindy se mi zdálo, že sedím na břehu řeky s prutem a mám políčeno na rybu; najednou trhnu prutem, a už tě mám, ty neřáde! Ale nejvíce to bylo, jako bych byl lovec a brouzdal se zroseným borůvčím nahoru a dolů; takovou radost z pohybu a síly jsem cítil, takovou zvláštní svobodu a napětí, jako bych prožíval nějaké dobrodružství. Já vám vydržel po celé noci honit ty tři halíře; a když jsem je dopadl, ani jsem nemyslel, že to jsou jenom mizerné tři halíře; byla to trofej, a já šel spat, vítězný a nadšený, divže jsem nevlezl do postele v botách. A to je všechno.“
+
+</section>

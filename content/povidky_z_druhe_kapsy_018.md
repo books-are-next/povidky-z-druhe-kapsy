@@ -3,6 +3,8 @@ title: Povídka o ztracené noze
 contentType: prose
 ---
 
+<section>
+
 „To by leckdo ani nevěřil,“ děl na to pan Tymich, „co člověk někdy vydrží. Počkejte, to bylo za války, když jsem sloužil u pětatřicátých; měli jsme tam jednoho vojáčka, jakpak on se jmenoval, nějak jako Dynda nebo Otáhal nebo Peterka, ale my jsme mu říkali Pepku; jináč moc hodný člověk, ale jelimánek, že bys nad ním brečel. No, dokud nás honili po execíráku, dělal, co mohl, a trpěl jako beránek; ale když nás dovezli na frontu, to bylo tenkrát za Krakovem, vybrali pro nás nějaké nešikovné místo, do kterého se zrovna strefovala ruská artilerie. Pepek nic, jenom mrkal; ale když přišel k jednomu koni s roztrženým břichem a ten kůň ještě frkal a pokoušel se vstát, tu vám ten Pepek zbledl, praštil čepicí o zem, dopustil se urážky Veličenstva, položil na zem kvér a ruksak a ubíral se zpátky.
 
 Jak se dostal domů těch pět set nebo kolik kilometrů, to si namouduši neumím představit; ale jednou v noci zaklepal u své chalupy a povídá své ženě, mámo, to jsem já, já už tam nazpátek nepudu; ale jestli mě tu najdou, tak je se mnou amen; já jsem dezentér. Když tak spolu poplakali, povídá žena, Pepku, já tě nedám, já tě schovám do hnoje, tam tě nikdo hledat nebude. Tak ho zahrabala do hnojiště a zakryla prkny, a v té sengrubně seděl Pepek pět měsíců; páni, to by nevydržel ani žádný mučedník pro víru. Potom to udala jejich sousedka skrz nějakou slepici, a přišli četníci vyndat Pepka z hnoje; poslouchejte, oni si museli přikoupit deset metrů provazu, aby k němu nemuseli čuchat, když ho vedli svázaného do města.
@@ -48,3 +50,5 @@ Tak si nech ty peníze, ty lakoto pekařská, povídám mu, ale přijdeš o nohu
 Za týden byl u mne zas. Strejčku, drmolil hned ve dveřích, oni mně na úřadě nechtějí tu nohu uznat; říkají, že je beztoho uschlá a k nepotřebě, – co mám s nimi dělat?
 
 To byste nevěřili, co to dalo běhání, než Lojzíkovi úředně přiznali, že má obě nohy; ale to se ví, potom měl Lojzík potahování, že ošidil erár o invalidní rentu, ba měl být žalován i proto, že se vyhnul konání vojenské povinnosti; chudák Lojzík se naběhal od úřadu k úřadu, ale ta noha mu začala sílit. Snad mu zesílila od toho, že musel tolik běhat; ale já myslím, že to bylo spíš proto, že mu ji úředně přiznali; on takový úřední dekret má přece jenom velikou moc. Nebo si myslím, že mu ta noha usychala proto, že ji měl vlastně neprávem; nebylo to s ní v pořádku, a to se člověku vymstí. Já vám řeknu, čisté svědomí, to je ta nejlepší hygiena; a kdyby lidé byli spravedliví, snad by ani nemuseli umřít.“
+
+</section>

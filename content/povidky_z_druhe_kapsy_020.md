@@ -3,6 +3,8 @@ title: Ušní zpověď
 contentType: prose
 ---
 
+<section>
+
 „Potlačené představy,“ mínil páter Voves, farář od Sv. Matěje, „poslouchejte, kurýrovat tyhle potlačené představy, to je jedna z nejstarších lidských zkušeností: jenže naše svatá církev té medicíně říká sacramentum sanctae confessionis[\[15\]](./resources/undefined). Když tě něco v duši tlačí, když se za něco hanbíš, jdi, kujóne, k svaté zpovědi a vyznej se z toho neřádu, co v sobě nosíš! Jenže my tomu neříkáme léčení nervových poruch; my tomu říkáme lítost, pokání a odpuštění hříchů.
 
 Počkejte, tomu už je řada let; byl ukrutně horký letní den, a tak jsem si zašel do svého kostelíčka – víte, já si myslím, že tihle evandělíci mohli vzniknout jenom v severních krajinách, kde není ani v létě člověku horko. V takovém našem, katolickém kostele máš po celý boží den něco, mše, modlení, nešpory nebo aspoň ty obrazy a sochy; můžeš si tam kdykoliv zaskočit, ochladíš se a porozjímáš – k tomu ale pasuje, když je venku jako v peci. Proto máte berany v těch chladných a nehostinných zemích a nás katolíky v končinách teplejších; to asi dělá ten stín a chládek ve chrámech Páně. Tedy tenkrát byl takový palčivý den; když jsem vešel do kostela, tak to na člověka tak krásně a smířlivě dýchlo; a tam ke mně přijde kostelník, že tu už přes hodinu čeká jeden člověk, aby se někomu vyzpovídal.
@@ -74,3 +76,5 @@ A pak to přišlo uprostřed křečí a záduchy. Lidi, něco takového jsem dos
 „Nebojte se,“ děl dr. Vitásek, „já to nebudu povídat; to už je lékařské tajemství. Potom ležel jako mokrý hadr, naprosto vyčerpán. Víte, já jsem mu nemohl dát rozhřešení, velebníčku, ani nějakou moudrou radu; ale já mu dal, lidi, dvě dávky morfia, a když se probudil, zas, a pak znovu, až už se neprobudil. Abyste věděli, já jsem mu pořádně pomohl.“
 
 „Amen,“ pravil páter Voves a drobet se zamyslil. „To jste byl hodný,“ dodal měkce, „aspoň se už netrápil.“
+
+</section>
