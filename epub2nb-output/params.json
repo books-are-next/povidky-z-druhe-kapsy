@@ -8,7 +8,8 @@
       "modified": "2021-09-15T21:10:37.325Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "mlpuroven2kapitola",
@@ -716,6 +717,6 @@
       "user": "books-are-next",
       "repo": "povidky-z-druhe-kapsy"
     },
-    "generatedAt": 1655271630989
+    "generatedAt": 1655364290489
   }
 }
