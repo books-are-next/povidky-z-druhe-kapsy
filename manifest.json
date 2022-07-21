@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-druhe-kapsy-3d5ff0a",
-  "revision": "3d5ff0a",
+  "identifier": "capek-povidky-z-druhe-kapsy-d66bf70",
+  "revision": "d66bf70",
   "readingOrder": [
     "promo.html",
     "povidky_z_druhe_kapsy_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:05:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188333834
+    "date": "Thu Jul 21 2022 14:35:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414125957
   },
   "documents": [
     {
@@ -644,7 +644,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 135,
-      "chars": 877,
+      "chars": 878,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -663,8 +663,8 @@
   ],
   "totals": {
     "all": {
-      "words": 44387,
-      "chars": 251089,
+      "words": 44388,
+      "chars": 251085,
       "ideas": 878
     },
     "chapters": {
