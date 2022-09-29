@@ -93,7 +93,7 @@ To se rozumí, zvolal jsem. Kamaráde, to jim teprve dá tu psychologickou hloub
 
 Já to zkusím, pravil hlas zamyšleně. Já jenom nevím, esli s tím budu moct krást. Člověk ztratí tu jistotu, víte? A když nemá tu jistotu, tak ho spíš čapnou.
 
-A kdyby! křikl jsem. Člověče zlatá, co na tom, kdyby vás chytli! Copak si nedovedete představit, jaké básně byste psal in carcere et catenis?[\[19\]](./resources/undefined) Já bych vám ukázal jednu báseň z vězení, to byste mrkal!
+A kdyby! křikl jsem. Člověče zlatá, co na tom, kdyby vás chytli! Copak si nedovedete představit, jaké básně byste psal in carcere et catenis?[^19] Já bych vám ukázal jednu báseň z vězení, to byste mrkal!
 
 A byla v novinách? ptal se hlas dychtivě.
 
