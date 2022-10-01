@@ -60,3 +60,49 @@ Prosím za ňadry, řekl stydlivě. Ono vám to tak krásně píchá.
 Poslouchejte, já už jsem neměl to srdce ty kaktusy mu vzít. Víte co, řekl jsem mu, já vás dovezu k starému panu Holbenovi a ten už vám utrhne obě uši. – Lidi, to vám bylo, když ti dva se sčuchli! Celou noc zůstali ve skleníku, než obešli těch šestatřicet tisíc hrnéčků. Holane, řekl mně starý pán, to je první člověk, který dovede ocenit kaktusy. A než uběhl měsíc, starý pan Holben s pláčem a žehnáním vypravil toho Ráčka do Mexika, aby tam sbíral kaktusy; oba svatosvatě věřili, že tam někde roste Cephalocereus nympha aurea Racek. Do roka jsme pak dostali takovou divnou zvěst, že pan Ráček tam zahynul krásnou a mučednickou smrtí. Přišel tam nějakým indiánům na jejich posvátný kaktus Čikulí, který je, abyste věděli, vlastní bratr Boha Otce, a buď se mu nepoklonil, nebo jej dokonce ukradl; zkrátka milí indiáni pana Ráčka svázali a posadili ho na Echinocactus visnaga Hooker, který je veliký jako slon a posetý ostny dlouhými jako ruské bajonety, následkem čehož náš krajan, odevzdán ve svůj osud, vypustil duši. Tak to je konec zloděje kaktusů.“
 
 </section>
+
+[^1]: Glochidy/glochidie (řec.) – ostnaté chlupy kaktusovitých rostlin. _Pozn. red._
+
+[^2]: Kontor/kontoár (franc.) – kancelář (účtárna, písárna). _Pozn. red._
+
+[^3]: Ramšl – hazardní karetní hra. _Pozn. red._
+
+[^4]: Neppr (něm.) – podvodník, prodavač bezcenného zboží. _Pozn. red._
+
+[^5]: Šartéka – bezcenná kniha. _Pozn. red._
+
+[^6]: Termit (řec.) – druh zápalné směsi. _Pozn. red._
+
+[^7]: Kaliko (podle ind. města Calicut) – řidší bavlněná tkanina. _Pozn. red._
+
+[^8]: Pakeboty – poštovní, obchodní lodě. _Pozn. red._
+
+[^9]: Renitenti – vzpurní lidé. _Pozn. red._
+
+[^10]: Acta sanctorum – (dosl. činy svatých) – edice životopisů svatých. _Pozn. red._
+
+[^11]: Bollandisté – vydavatelé těchto životopisů (podle jezuity Jeana Bollanda, který Acta sanctorum v r. 1643 založil). _Pozn. red._
+
+[^12]: Frontdiensttauglich! Sofort einrücken! (něm.) – Schopen služby na frontě! Ihned narukovat! _Pozn. red._
+
+[^13]: Tauglich (něm.) – schopný (vojenské služby). _Pozn. red._
+
+[^14]: Einbeinig (něm.) – jednonohý. _Pozn. red._
+
+[^15]: Sacramentum sanctae confessionis (lat.) – svátost svaté zpovědi. _Pozn. red._
+
+[^16]: Kontrfej – podobizna, zde obličej. _Pozn. red._
+
+[^17]: N – zkratka pro zánět ledvin (nefritida). _Pozn. red._
+
+[^18]: Em O – morfium. _Pozn. red._
+
+[^19]: In carcere et catenis (lat.) – ve vězení a řetězech. _Pozn. red._
+
+[^20]: Dolus (lat.) – zlý úmysl. _Pozn. red._
+
+[^21]: In re (lat.) – ve věci. _Pozn. red._
+
+[^22]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._
+
+[^23]: Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._

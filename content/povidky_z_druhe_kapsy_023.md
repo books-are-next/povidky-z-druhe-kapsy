@@ -28,3 +28,49 @@ Zkrátka, když jsem ještě býval u nás v účtárně a dělal tyhle pololetn
 V takovém pádě jsem zůstal v účtárně třeba přes celou noc, narovnal jsem před sebe hromadu účetních knih a teď jsem se do toho pustil. To vám je zvláštní, já jsem ty kolony číslic nevnímal jako numera, ale jako věci. Někdy jsem si představoval, že lezu po těch číslicích nahoru, jako by to byla příkrá skála; nebo že se po nich spouštím jako po žebříku do šachty. Někdy jsem se cítil jako lovec, který se prodírá mlázím číslic, aby dopadl vzácné a plaché zvíře; to byly ty tři halíře. Nebo jsem měl pocit, že jsem detektiv a číhám ve tmě za rohem; tisíce figur mě míjí, ale já čekám, až popadnu za límec toho taškáře, toho pachatele, tu účetní chybičku. Jindy se mi zdálo, že sedím na břehu řeky s prutem a mám políčeno na rybu; najednou trhnu prutem, a už tě mám, ty neřáde! Ale nejvíce to bylo, jako bych byl lovec a brouzdal se zroseným borůvčím nahoru a dolů; takovou radost z pohybu a síly jsem cítil, takovou zvláštní svobodu a napětí, jako bych prožíval nějaké dobrodružství. Já vám vydržel po celé noci honit ty tři halíře; a když jsem je dopadl, ani jsem nemyslel, že to jsou jenom mizerné tři halíře; byla to trofej, a já šel spat, vítězný a nadšený, divže jsem nevlezl do postele v botách. A to je všechno.“
 
 </section>
+
+[^1]: Glochidy/glochidie (řec.) – ostnaté chlupy kaktusovitých rostlin. _Pozn. red._
+
+[^2]: Kontor/kontoár (franc.) – kancelář (účtárna, písárna). _Pozn. red._
+
+[^3]: Ramšl – hazardní karetní hra. _Pozn. red._
+
+[^4]: Neppr (něm.) – podvodník, prodavač bezcenného zboží. _Pozn. red._
+
+[^5]: Šartéka – bezcenná kniha. _Pozn. red._
+
+[^6]: Termit (řec.) – druh zápalné směsi. _Pozn. red._
+
+[^7]: Kaliko (podle ind. města Calicut) – řidší bavlněná tkanina. _Pozn. red._
+
+[^8]: Pakeboty – poštovní, obchodní lodě. _Pozn. red._
+
+[^9]: Renitenti – vzpurní lidé. _Pozn. red._
+
+[^10]: Acta sanctorum – (dosl. činy svatých) – edice životopisů svatých. _Pozn. red._
+
+[^11]: Bollandisté – vydavatelé těchto životopisů (podle jezuity Jeana Bollanda, který Acta sanctorum v r. 1643 založil). _Pozn. red._
+
+[^12]: Frontdiensttauglich! Sofort einrücken! (něm.) – Schopen služby na frontě! Ihned narukovat! _Pozn. red._
+
+[^13]: Tauglich (něm.) – schopný (vojenské služby). _Pozn. red._
+
+[^14]: Einbeinig (něm.) – jednonohý. _Pozn. red._
+
+[^15]: Sacramentum sanctae confessionis (lat.) – svátost svaté zpovědi. _Pozn. red._
+
+[^16]: Kontrfej – podobizna, zde obličej. _Pozn. red._
+
+[^17]: N – zkratka pro zánět ledvin (nefritida). _Pozn. red._
+
+[^18]: Em O – morfium. _Pozn. red._
+
+[^19]: In carcere et catenis (lat.) – ve vězení a řetězech. _Pozn. red._
+
+[^20]: Dolus (lat.) – zlý úmysl. _Pozn. red._
+
+[^21]: In re (lat.) – ve věci. _Pozn. red._
+
+[^22]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._
+
+[^23]: Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._
