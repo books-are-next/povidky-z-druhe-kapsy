@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-druhe-kapsy-b50e711",
-  "revision": "b50e711",
+  "identifier": "capek-povidky-z-druhe-kapsy-eb3570c",
+  "revision": "eb3570c",
   "readingOrder": [
     "promo.html",
     "povidky_z_druhe_kapsy_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:32:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487142350
+    "date": "Sat Oct 01 2022 16:02:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640134555
   },
   "documents": [
     {
@@ -83,9 +83,9 @@
     {
       "title": "Ukradený kaktus",
       "file": "povidky_z_druhe_kapsy_006.html",
-      "words": 1956,
-      "chars": 11438,
-      "ideas": 28,
+      "words": 1966,
+      "chars": 11514,
+      "ideas": 29,
       "role": "chapter",
       "order": 2,
       "prev": "povidky_z_druhe_kapsy_005.html",
@@ -123,9 +123,9 @@
     {
       "title": "Zmizení pana Hirsche",
       "file": "povidky_z_druhe_kapsy_008.html",
-      "words": 1980,
-      "chars": 10783,
-      "ideas": 17,
+      "words": 2007,
+      "chars": 10951,
+      "ideas": 20,
       "role": "chapter",
       "order": 4,
       "prev": "povidky_z_druhe_kapsy_007.html",
@@ -143,9 +143,9 @@
     {
       "title": "Čintamani a ptáci",
       "file": "povidky_z_druhe_kapsy_009.html",
-      "words": 3176,
-      "chars": 17615,
-      "ideas": 35,
+      "words": 3183,
+      "chars": 17651,
+      "ideas": 36,
       "role": "chapter",
       "order": 5,
       "prev": "povidky_z_druhe_kapsy_008.html",
@@ -163,9 +163,9 @@
     {
       "title": "Příběh o kasaři a žháři",
       "file": "povidky_z_druhe_kapsy_010.html",
-      "words": 2181,
-      "chars": 11792,
-      "ideas": 23,
+      "words": 2190,
+      "chars": 11838,
+      "ideas": 24,
       "role": "chapter",
       "order": 6,
       "prev": "povidky_z_druhe_kapsy_009.html",
@@ -223,9 +223,9 @@
     {
       "title": "Grófinka",
       "file": "povidky_z_druhe_kapsy_013.html",
-      "words": 1663,
-      "chars": 9558,
-      "ideas": 25,
+      "words": 1675,
+      "chars": 9628,
+      "ideas": 26,
       "role": "chapter",
       "order": 9,
       "prev": "povidky_z_druhe_kapsy_012.html",
@@ -243,9 +243,9 @@
     {
       "title": "Historie dirigenta Kaliny",
       "file": "povidky_z_druhe_kapsy_014.html",
-      "words": 1703,
-      "chars": 9633,
-      "ideas": 16,
+      "words": 1711,
+      "chars": 9679,
+      "ideas": 17,
       "role": "chapter",
       "order": 10,
       "prev": "povidky_z_druhe_kapsy_013.html",
@@ -283,9 +283,9 @@
     {
       "title": "Příběhy sňatkového podvodníka",
       "file": "povidky_z_druhe_kapsy_016.html",
-      "words": 2201,
-      "chars": 12080,
-      "ideas": 44,
+      "words": 2208,
+      "chars": 12116,
+      "ideas": 45,
       "role": "chapter",
       "order": 12,
       "prev": "povidky_z_druhe_kapsy_015.html",
@@ -323,9 +323,9 @@
     {
       "title": "Povídka o ztracené noze",
       "file": "povidky_z_druhe_kapsy_018.html",
-      "words": 1595,
-      "chars": 8979,
-      "ideas": 23,
+      "words": 1657,
+      "chars": 9371,
+      "ideas": 28,
       "role": "chapter",
       "order": 14,
       "prev": "povidky_z_druhe_kapsy_017.html",
@@ -363,9 +363,9 @@
     {
       "title": "Ušní zpověď",
       "file": "povidky_z_druhe_kapsy_020.html",
-      "words": 1304,
-      "chars": 7272,
-      "ideas": 35,
+      "words": 1340,
+      "chars": 7466,
+      "ideas": 39,
       "role": "chapter",
       "order": 16,
       "prev": "povidky_z_druhe_kapsy_019.html",
@@ -383,9 +383,9 @@
     {
       "title": "O lyrickém zloději",
       "file": "povidky_z_druhe_kapsy_021.html",
-      "words": 1703,
-      "chars": 9665,
-      "ideas": 69,
+      "words": 1716,
+      "chars": 9727,
+      "ideas": 70,
       "role": "chapter",
       "order": 17,
       "prev": "povidky_z_druhe_kapsy_020.html",
@@ -403,9 +403,9 @@
     {
       "title": "Soud pana Havleny",
       "file": "povidky_z_druhe_kapsy_022.html",
-      "words": 1779,
-      "chars": 10709,
-      "ideas": 25,
+      "words": 1796,
+      "chars": 10777,
+      "ideas": 27,
       "role": "chapter",
       "order": 18,
       "prev": "povidky_z_druhe_kapsy_021.html",
@@ -483,9 +483,9 @@
     {
       "title": "Sbírka známek",
       "file": "povidky_z_druhe_kapsy_026.html",
-      "words": 1926,
-      "chars": 10719,
-      "ideas": 16,
+      "words": 1946,
+      "chars": 10839,
+      "ideas": 18,
       "role": "chapter",
       "order": 22,
       "prev": "povidky_z_druhe_kapsy_025.html",
@@ -623,9 +623,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "povidky_z_druhe_kapsy_033.html",
-      "words": 231,
-      "chars": 1475,
-      "ideas": 24,
+      "words": 459,
+      "chars": 2803,
+      "ideas": 47,
       "role": "chapter",
       "order": 29,
       "prev": "povidky_z_druhe_kapsy_032.html",
@@ -643,9 +643,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 135,
-      "chars": 878,
-      "ideas": 16,
+      "words": 126,
+      "chars": 835,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "povidky_z_druhe_kapsy_033.html",
@@ -663,14 +663,14 @@
   ],
   "totals": {
     "all": {
-      "words": 44388,
-      "chars": 251141,
-      "ideas": 878
+      "words": 44835,
+      "chars": 253740,
+      "ideas": 923
     },
     "chapters": {
-      "words": 44245,
-      "chars": 250220,
-      "ideas": 858
+      "words": 44701,
+      "chars": 252862,
+      "ideas": 904
     }
   }
 }

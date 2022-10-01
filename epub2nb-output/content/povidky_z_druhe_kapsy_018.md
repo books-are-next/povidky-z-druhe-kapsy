@@ -52,3 +52,49 @@ Za týden byl u mne zas. Strejčku, drmolil hned ve dveřích, oni mně na úřa
 To byste nevěřili, co to dalo běhání, než Lojzíkovi úředně přiznali, že má obě nohy; ale to se ví, potom měl Lojzík potahování, že ošidil erár o invalidní rentu, ba měl být žalován i proto, že se vyhnul konání vojenské povinnosti; chudák Lojzík se naběhal od úřadu k úřadu, ale ta noha mu začala sílit. Snad mu zesílila od toho, že musel tolik běhat; ale já myslím, že to bylo spíš proto, že mu ji úředně přiznali; on takový úřední dekret má přece jenom velikou moc. Nebo si myslím, že mu ta noha usychala proto, že ji měl vlastně neprávem; nebylo to s ní v pořádku, a to se člověku vymstí. Já vám řeknu, čisté svědomí, to je ta nejlepší hygiena; a kdyby lidé byli spravedliví, snad by ani nemuseli umřít.“
 
 </section>
+
+[^1]: Glochidy/glochidie (řec.) – ostnaté chlupy kaktusovitých rostlin. _Pozn. red._
+
+[^2]: Kontor/kontoár (franc.) – kancelář (účtárna, písárna). _Pozn. red._
+
+[^3]: Ramšl – hazardní karetní hra. _Pozn. red._
+
+[^4]: Neppr (něm.) – podvodník, prodavač bezcenného zboží. _Pozn. red._
+
+[^5]: Šartéka – bezcenná kniha. _Pozn. red._
+
+[^6]: Termit (řec.) – druh zápalné směsi. _Pozn. red._
+
+[^7]: Kaliko (podle ind. města Calicut) – řidší bavlněná tkanina. _Pozn. red._
+
+[^8]: Pakeboty – poštovní, obchodní lodě. _Pozn. red._
+
+[^9]: Renitenti – vzpurní lidé. _Pozn. red._
+
+[^10]: Acta sanctorum – (dosl. činy svatých) – edice životopisů svatých. _Pozn. red._
+
+[^11]: Bollandisté – vydavatelé těchto životopisů (podle jezuity Jeana Bollanda, který Acta sanctorum v r. 1643 založil). _Pozn. red._
+
+[^12]: Frontdiensttauglich! Sofort einrücken! (něm.) – Schopen služby na frontě! Ihned narukovat! _Pozn. red._
+
+[^13]: Tauglich (něm.) – schopný (vojenské služby). _Pozn. red._
+
+[^14]: Einbeinig (něm.) – jednonohý. _Pozn. red._
+
+[^15]: Sacramentum sanctae confessionis (lat.) – svátost svaté zpovědi. _Pozn. red._
+
+[^16]: Kontrfej – podobizna, zde obličej. _Pozn. red._
+
+[^17]: N – zkratka pro zánět ledvin (nefritida). _Pozn. red._
+
+[^18]: Em O – morfium. _Pozn. red._
+
+[^19]: In carcere et catenis (lat.) – ve vězení a řetězech. _Pozn. red._
+
+[^20]: Dolus (lat.) – zlý úmysl. _Pozn. red._
+
+[^21]: In re (lat.) – ve věci. _Pozn. red._
+
+[^22]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._
+
+[^23]: Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._

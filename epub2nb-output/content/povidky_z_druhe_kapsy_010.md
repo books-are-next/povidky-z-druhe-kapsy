@@ -52,3 +52,49 @@ V tu chvíli ten kluk Sepp vyskočil a chtěl vzít roha; ale to už ho četník
 Poslouchejte, na tu čočku pak zavolali nějakého hvězdáře z Vídně, a ten nad tím kroutil hlavou, jak byla přesně nařízena právě na sluneční kulminaci třináctého června. Říkal, že to je zrovna zázračná šikovnost, když ten patnáctiletý kluk k tomu neměl žádné ty astronomické nástroje na měření úhlů. Co s tím Seppem bylo dál, to nevím; ale tak si myslím, jaký by z toho uličníka mohl být hvězdář nebo fyzik. Vždyť to mohl být druhý Newton nebo co, ten zatracený kluk! Ale ono na světě přichází nazmar tolik zvláštního důmyslu a takových těch krásných schopností – Víte, lidé mají tu trpělivost hledat v písku diamanty nebo perly v moři; ale aby hledali v lidech vzácné a podivné dary od Pánaboha, aby nepřišly nazmar, to je ani nenapadne. A to je veliká chyba.“
 
 </section>
+
+[^1]: Glochidy/glochidie (řec.) – ostnaté chlupy kaktusovitých rostlin. _Pozn. red._
+
+[^2]: Kontor/kontoár (franc.) – kancelář (účtárna, písárna). _Pozn. red._
+
+[^3]: Ramšl – hazardní karetní hra. _Pozn. red._
+
+[^4]: Neppr (něm.) – podvodník, prodavač bezcenného zboží. _Pozn. red._
+
+[^5]: Šartéka – bezcenná kniha. _Pozn. red._
+
+[^6]: Termit (řec.) – druh zápalné směsi. _Pozn. red._
+
+[^7]: Kaliko (podle ind. města Calicut) – řidší bavlněná tkanina. _Pozn. red._
+
+[^8]: Pakeboty – poštovní, obchodní lodě. _Pozn. red._
+
+[^9]: Renitenti – vzpurní lidé. _Pozn. red._
+
+[^10]: Acta sanctorum – (dosl. činy svatých) – edice životopisů svatých. _Pozn. red._
+
+[^11]: Bollandisté – vydavatelé těchto životopisů (podle jezuity Jeana Bollanda, který Acta sanctorum v r. 1643 založil). _Pozn. red._
+
+[^12]: Frontdiensttauglich! Sofort einrücken! (něm.) – Schopen služby na frontě! Ihned narukovat! _Pozn. red._
+
+[^13]: Tauglich (něm.) – schopný (vojenské služby). _Pozn. red._
+
+[^14]: Einbeinig (něm.) – jednonohý. _Pozn. red._
+
+[^15]: Sacramentum sanctae confessionis (lat.) – svátost svaté zpovědi. _Pozn. red._
+
+[^16]: Kontrfej – podobizna, zde obličej. _Pozn. red._
+
+[^17]: N – zkratka pro zánět ledvin (nefritida). _Pozn. red._
+
+[^18]: Em O – morfium. _Pozn. red._
+
+[^19]: In carcere et catenis (lat.) – ve vězení a řetězech. _Pozn. red._
+
+[^20]: Dolus (lat.) – zlý úmysl. _Pozn. red._
+
+[^21]: In re (lat.) – ve věci. _Pozn. red._
+
+[^22]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._
+
+[^23]: Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._
