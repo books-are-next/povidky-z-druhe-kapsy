@@ -33,7 +33,7 @@ V MKP 2. opravené vydání
 [^21]: In re (lat.) – ve věci. _Pozn. red._  
 [^22]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._  
 [^23]: Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._  
-V MKP 1. elektronické vydání z 1. 10. 2022.
+V MKP 1. elektronické vydání z 4. 10. 2022.
 
 ***
 
@@ -41,10 +41,10 @@ Znění tohoto textu vychází z díla [Povídky z druhé kapsy](https://search.
 
 ***
 
-[![](./resources/image001.jpg)](http://creativecommons.org/publicdomain/mark/1.0/deed.cs)
+
 Text díla (Karel Čapek: Povídky z druhé kapsy), publikovaného [Městskou knihovnou v Praze](https://www.mlp.cz/cz/), není vázán autorskými právy.
 
-[![](./resources/image002.jpg)](http://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
+
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
 ***
