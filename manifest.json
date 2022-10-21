@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-povidky-z-druhe-kapsy-92ba656",
-  "revision": "92ba656",
+  "identifier": "capek-povidky-z-druhe-kapsy-c58994a",
+  "revision": "c58994a",
   "readingOrder": [
     "promo.html",
     "povidky_z_druhe_kapsy_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:58:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417526381
+    "date": "Fri Oct 21 2022 11:40:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352441890
   },
   "documents": [
     {

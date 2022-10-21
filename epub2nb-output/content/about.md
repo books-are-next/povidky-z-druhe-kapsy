@@ -33,7 +33,7 @@ V MKP 2. opravené vydání
 [^21]: In re (lat.) – ve věci. _Pozn. red._  
 [^22]: Šmízo – nekvalitní zboží, aušus. _Pozn. red._  
 [^23]: Straits Settlements – skupina britských kolonií v jihovýchodní Asii. _Pozn. red._  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
